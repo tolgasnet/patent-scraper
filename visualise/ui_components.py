@@ -1,5 +1,3 @@
-import pandas as pd
-
 from .data_access import PatentFile
 
 
@@ -24,9 +22,8 @@ def render_filters(st_module, default_query: str = "") -> str:
     return st_module.sidebar.text_input("🔍 Search titles:", value=default_query)
 
 
-def render_download_button(st_module, frame: pd.DataFrame) -> None:
+def render_download_button(st_module, csv_bytes: bytes) -> None:
     """Render a CSV download button for the filtered data."""
-    csv_bytes = frame.to_csv(index=False).encode("utf-8")
     st_module.sidebar.download_button(
         label="💾 Export CSV",
         data=csv_bytes,
