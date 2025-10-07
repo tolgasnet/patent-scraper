@@ -2,6 +2,8 @@
 
 Minimal Streamlit + Typer project for scraping synthetic-biology patents, storing them as NDJSON, and reviewing them via a lightweight UI.
 
+Companion guide: see [DESIGN.md](DESIGN.md) for context on core architecture and trade-offs.
+
 ## Project Layout
 - `ingest/` – Typer CLI (`ingest/cli.py`) and helpers for streaming USPTO XML into `data/patents_synbio_*.jsonl`
 - `visualise/` – Streamlit app (`visualise/app.py`) and supporting modules for filtering and browsing
@@ -70,7 +72,7 @@ Each JSONL record emitted by `stream_and_write` looks like:
 The visualiser consumes the JSONL files as-is; engineers can reuse them downstream (CRM, analytics).
 
 ## CSV Exports
-The UI offers a “💾 Export CSV” button. Click to download the current filtered subset as `filtered_patents.csv`. The file is streamed directly to the browser (no server-side persistence). Large datasets may take a moment to generate; if performance becomes an issue, consider batching or limiting the page size.
+The UI offers a “Export CSV” button. Click to download the current filtered subset as `filtered_patents.csv`. The file is streamed directly to the browser (no server-side persistence). Large datasets may take a moment to generate; if performance becomes an issue, consider batching or limiting the page size.
 
 ## Next Steps
 - Automate the weekly scrape via cron/GitHub Actions
