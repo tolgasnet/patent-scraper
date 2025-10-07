@@ -6,7 +6,7 @@ from ingest.cpc_prefixes import CPC_PREFIXES
 from ingest.stream_xml import stream_and_write
 
 INPUT_XML_SAMPLE = "data/sample.xml"
-INPUT_XML_LARGE = "data/ipa251002.xml"
+INPUT_XML_LARGE = "data/ipa251002.xml" ## Rename this as needed.
 
 app = typer.Typer()
 
