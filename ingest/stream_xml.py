@@ -6,13 +6,13 @@ Streaming runner (no CLI; use from your own Typer app):
 """
 
 from pathlib import Path
-from typing import Dict, Iterator, List
+from typing import Dict, Iterator, List, Optional
 import json
 from lxml import etree as ET
-from patent_xml import PatentApplication
+from ingest.patent_xml import PatentApplication
 
 # ---- Conventions / constants ----
-OUTPUT_DIR: Path = Path("data")                    # NDJSON directory
+OUTPUT_DIR: Path = Path("data")  # NDJSON directory
 
 def _iter_multi_xml_docs(path: Path) -> Iterator[bytes]:
     """
@@ -33,22 +33,30 @@ def _iter_multi_xml_docs(path: Path) -> Iterator[bytes]:
         if buf:
             yield b"".join(buf)
 
-def _out_path_for(start_date: str, end_date: str) -> Path:
+def _out_path_for(start_date: str, end_date: str, output_dir: Optional[Path] = None) -> Path:
     """
     Conventional output file:
       data/patents_syn_bio_<start>_<end>.jsonl
     """
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    return OUTPUT_DIR / f"patents_synbio_{start_date}_{end_date}.jsonl"
+    target_dir = output_dir or OUTPUT_DIR
+    target_dir.mkdir(parents=True, exist_ok=True)
+    return target_dir / f"patents_synbio_{start_date}_{end_date}.jsonl"
 
-def stream_and_write(*, start_date: str, end_date: str, cpc_prefixes: List[str], input_xml: str) -> Dict:
+def stream_and_write(
+    *,
+    start_date: str,
+    end_date: str,
+    cpc_prefixes: List[str],
+    input_xml: str,
+    output_dir: Optional[Path] = None,
+) -> Dict:
     """
     Stream the given XML file (input_xml) and write matches to a conventional NDJSON path.
     start_date/end_date are required (YYYYMMDD). No validation here.
     """
     total = 0
     matched = 0
-    out_path = _out_path_for(start_date, end_date)
+    out_path = _out_path_for(start_date, end_date, output_dir)
 
     parser = ET.XMLParser(recover=True, resolve_entities=False, no_network=True, huge_tree=True)
 

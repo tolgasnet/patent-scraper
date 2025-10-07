@@ -3,3 +3,6 @@ run-cli:
 
 run-ui:
 	PYTHONPATH=. poetry run python -m streamlit run visualise/app.py
+
+test:
+	poetry run pytest
