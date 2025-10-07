@@ -9,7 +9,7 @@ Minimal Streamlit + Typer project for scraping synthetic-biology patents, storin
 - `Makefile` – Convenience commands for scraping, running the UI, and executing tests
 
 ## Prerequisites
-- Python 3.13 (managed via Poetry)
+- Python 3.11+ (managed via Poetry)
 - Poetry 1.8+
 
 Install Poetry (macOS example):
