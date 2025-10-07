@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "patent-scraper"
+version = "0.1.0"
+description = "MVP patent scraper"
+authors = ["tolgas <tolgas@example.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.13"
+typer = "^0.19.2"
+lxml = "^5.3.0"
+streamlit = "^1.50.0"
+pandas = "^2.3.3"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.4.2"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
