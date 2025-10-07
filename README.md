@@ -35,6 +35,9 @@ Generate a fresh NDJSON dataset (defaults to `data/ipa251002.xml`):
 ```bash
 make run-cli
 ```
+By default this uses the included `data/sample.xml` (small example dataset). If you want to test with a larger file, download the latest “Patent Application Full-text Data (No Images)” (~200 MB ZIP) from https://data.uspto.gov/bulkdata/datasets, extract the XML into the `data/` folder, and update `INPUT_XML_LARGE` in `ingest/cli.py` to point to the new filename.
+
+Version-controlled JSONL outputs (`data/patents_synbio_*.jsonl`) ship with the repo, so you only need the large download if you want to rerun the ingest yourself.
 
 For the MVP, treat this as the weekly cron/automation entrypoint. You can override the input/output paths:
 ```bash

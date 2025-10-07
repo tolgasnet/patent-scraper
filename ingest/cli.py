@@ -18,7 +18,7 @@ def version():
 def scrape(
     start_date: str = typer.Option("20251001", "--start-date", help="Lower bound publication date (YYYYMMDD)."),
     end_date: str = typer.Option("20251002", "--end-date", help="Upper bound publication date (YYYYMMDD)."),
-    input_xml: Path = typer.Option(Path(INPUT_XML_LARGE), "--input-xml", exists=True, file_okay=True, dir_okay=False, readable=True),
+    input_xml: Path = typer.Option(Path(INPUT_XML_SAMPLE), "--input-xml", exists=True, file_okay=True, dir_okay=False, readable=True),
     output_dir: Path | None = typer.Option(None, "--output-dir", help="Directory for NDJSON output; defaults to data/"),
 ):
     """Scrape patent data from an XML source into NDJSON."""
