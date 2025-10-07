@@ -4,16 +4,6 @@ import os
 from glob import glob
 
 
-st.markdown(
-    """
-    <style>
-    .block-container {
-        padding-top: 1rem;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
 st.title("🧬 Patent Scraper Viewer")
 
 # Sidebar: pick an NDJSON file starting with 'patents_' from data/
@@ -45,54 +35,14 @@ def _ensure_cpc_column(frame: pd.DataFrame) -> str | None:
         return "cpc"
     return None
 
-def _extract_prefixes_from_value(val) -> list[str]:
-    # Accept a list of codes or a single code; return list of 4-char prefixes
-    if val is None or (isinstance(val, float) and pd.isna(val)):
-        return []
-    vals = val if isinstance(val, (list, tuple)) else [val]
-    prefixes = []
-    for code in vals:
-        s = str(code).strip().upper()
-        if not s:
-            continue
-        # Build prefix from leading alphanumerics, up to 4 chars (e.g., C12N, A01H)
-        p = ""
-        for ch in s:
-            if ch.isalnum():
-                p += ch
-                if len(p) >= 4:
-                    break
-            else:
-                break
-        if p:
-            prefixes.append(p)
-    return prefixes
-
 cpc_col = _ensure_cpc_column(df)
-all_prefixes = []
-if cpc_col:
-    try:
-        all_prefixes = sorted({p for v in df[cpc_col].dropna().tolist() for p in _extract_prefixes_from_value(v)})
-    except Exception:
-        all_prefixes = []
 
 st.sidebar.header("Filters")
-
-# CPC prefix multiselect (defaults to all)
-selected_prefixes = st.sidebar.multiselect(
-    "CPC prefixes",
-    options=all_prefixes,
-    default=all_prefixes,
-    help="Filter by 4-char CPC prefixes (e.g., C12N, A01H).",
-)
 
 # Search box for titles or CPC codes
 search_query = st.sidebar.text_input("🔍 Search titles or CPC codes:", "")
 
 # Apply filters
-if cpc_col and selected_prefixes:
-    df = df[df[cpc_col].apply(lambda v: any(p in _extract_prefixes_from_value(v) for p in selected_prefixes))]
-
 if search_query:
     q = search_query.lower()
     def _row_matches(row) -> bool:
@@ -116,16 +66,6 @@ total_patents = len(df)
 
 total_all = load_ndjson(selected_file)
 total_all_count = len(total_all)
-
-st.markdown(
-    """
-    <style>
-    [data-testid="stMetricValue"] { font-size: 1.2rem; }
-    [data-testid="stMetricLabel"] { font-size: 0.8rem; }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
 
 col_total, col_filtered, _ = st.columns([1, 1, 4])
 col_total.metric("Total Patents", f"{total_all_count:,}")
