@@ -1,31 +1,45 @@
 import streamlit as st
 
-from cpc_filters import detect_cpc_column, filter_by_search
-from data_access import list_patent_files, load_patent_dataframe
-import ui_components as ui
+from visualise.cpc_filters import detect_cpc_column, filter_by_search
+from visualise.data_access import PatentService
+from visualise.pagination import paginate
+from visualise.session_state import SessionManager
+from visualise import ui_components as ui
 
-st.title("🧬 Patent Scraper Viewer")
 
-patent_files = list_patent_files()
-selected_file = ui.select_dataset(patent_files)
+def run_app(
+    st_module=st,
+    service: PatentService | None = None,
+    page_size: int = 10,
+) -> None:
+    """Run the Streamlit application with injectable dependencies."""
+    st_module.title("🧬 Patent Scraper Viewer")
 
-full_df = load_patent_dataframe(selected_file)
-cpc_column = detect_cpc_column(full_df)
+    service = service or PatentService()
+    session = SessionManager(st_module.session_state)
 
-search_query = ui.render_filters()
+    patent_files = service.list_files()
+    selected_file = ui.select_dataset(st_module, patent_files)
+    session.record_dataset(selected_file.path.as_posix())
 
-previous_dataset = st.session_state.get("_selected_dataset")
-previous_query = st.session_state.get("_search_query")
-current_dataset = selected_file.path.as_posix()
-if previous_dataset != current_dataset:
-    st.session_state[ui.PAGE_STATE_KEY] = 1
-    st.session_state["_selected_dataset"] = current_dataset
-if previous_query != search_query:
-    st.session_state[ui.PAGE_STATE_KEY] = 1
-    st.session_state["_search_query"] = search_query
+    full_df = service.load_dataframe(selected_file)
+    cpc_column = detect_cpc_column(full_df)
 
-filtered_df = filter_by_search(full_df, cpc_column, search_query)
+    search_query = ui.render_filters(st_module, default_query=session.search_query)
+    session.update_search_query(search_query)
 
-ui.render_download_button(filtered_df)
-ui.render_metrics(len(full_df), len(filtered_df))
-ui.render_paginated_table(filtered_df)
+    filtered_df = filter_by_search(full_df, cpc_column, search_query)
+
+    ui.render_download_button(st_module, filtered_df)
+    ui.render_metrics(st_module, len(full_df), len(filtered_df))
+
+    page = paginate(filtered_df, session.page, page_size=page_size)
+    session.page = ui.render_paginated_table(st_module, page)
+
+
+def main() -> None:
+    run_app()
+
+
+if __name__ == "__main__":
+    main()
