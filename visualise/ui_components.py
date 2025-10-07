@@ -21,7 +21,7 @@ def select_dataset(st_module, files: list[PatentFile]) -> PatentFile:
 def render_filters(st_module, default_query: str = "") -> str:
     """Render filter controls and return the search query."""
     st_module.sidebar.header("Filters")
-    return st_module.sidebar.text_input("🔍 Search titles or CPC codes:", value=default_query)
+    return st_module.sidebar.text_input("🔍 Search titles:", value=default_query)
 
 
 def render_download_button(st_module, frame: pd.DataFrame) -> None:

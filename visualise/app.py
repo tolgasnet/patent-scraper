@@ -1,6 +1,6 @@
 import streamlit as st
 
-from visualise.cpc_filters import detect_cpc_column, filter_by_search
+from visualise.cpc_filters import filter_by_title
 from visualise.data_access import PatentService
 from visualise.pagination import paginate
 from visualise.session_state import SessionManager
@@ -23,12 +23,10 @@ def run_app(
     session.record_dataset(selected_file.path.as_posix())
 
     full_df = service.load_dataframe(selected_file)
-    cpc_column = detect_cpc_column(full_df)
-
     search_query = ui.render_filters(st_module, default_query=session.search_query)
     session.update_search_query(search_query)
 
-    filtered_df = filter_by_search(full_df, cpc_column, search_query)
+    filtered_df = filter_by_title(full_df, search_query)
 
     ui.render_download_button(st_module, filtered_df)
     ui.render_metrics(st_module, len(full_df), len(filtered_df))
