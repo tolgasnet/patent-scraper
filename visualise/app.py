@@ -127,7 +127,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-col_total, col_filtered = st.columns(2)
+col_total, col_filtered, _ = st.columns([1, 1, 4])
 col_total.metric("Total Patents", f"{total_all_count:,}")
 col_filtered.metric("After Filters", f"{total_patents:,}")
 
@@ -145,21 +145,11 @@ end = start + page_size
 st.dataframe(df.iloc[start:end], use_container_width=True)
 
 # Pager below the table
-col1, col2, col3 = st.columns([1, 2, 1])
-with col1:
-    if st.button("⬅️ Prev") and st.session_state.page > 1:
+col_prev, col_next = st.columns(2)
+with col_prev:
+    if st.button("⬅️ Prev", use_container_width=True) and st.session_state.page > 1:
         st.session_state.page -= 1
-with col3:
-    if st.button("Next ➡️") and st.session_state.page < total_pages:
+with col_next:
+    if st.button("Next ➡️", use_container_width=True) and st.session_state.page < total_pages:
         st.session_state.page += 1
 st.markdown(f"**Page {st.session_state.page} / {total_pages}**")
-
-if cpc_col and not df.empty:
-    st.caption("Top CPC Prefixes")
-    prefix_counts = {}
-    for v in df[cpc_col].dropna():
-        for p in _extract_prefixes_from_value(v):
-            prefix_counts[p] = prefix_counts.get(p, 0) + 1
-    if prefix_counts:
-        top_df = pd.DataFrame(sorted(prefix_counts.items(), key=lambda x: x[1], reverse=True), columns=["CPC Prefix", "Count"])
-        st.bar_chart(top_df.set_index("CPC Prefix"), height=150)
