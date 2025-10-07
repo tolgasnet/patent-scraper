@@ -1,46 +1,78 @@
 # 🧬 Patent Scraper MVP
 
-Minimal Python project for exploring and processing patent data.
+Minimal Streamlit + Typer project for scraping synthetic-biology patents, storing them as NDJSON, and reviewing them via a lightweight UI.
 
-## 🚀 Setup
+## Project Layout
+- `ingest/` – Typer CLI (`ingest/cli.py`) and helpers for streaming USPTO XML into `data/patents_synbio_*.jsonl`
+- `visualise/` – Streamlit app (`visualise/app.py`) and supporting modules for filtering and browsing
+- `data/` – Sample USPTO XML (`sample.xml`) plus generated/expected JSONL outputs
+- `Makefile` – Convenience commands for scraping, running the UI, and executing tests
 
-### 1. Install Poetry
+## Prerequisites
+- Python 3.13 (managed via Poetry)
+- Poetry 1.8+
+
+Install Poetry (macOS example):
 ```bash
 brew install poetry
-````
+```
 
-### 2. Install dependencies
-
+## Setup
+Install dependencies:
 ```bash
 poetry install
 ```
 
-Creates a virtual environment (if missing) and installs everything in `pyproject.toml`.
-
-### 3. Activate or run
-
+Optional: open a shell within the virtualenv
 ```bash
-poetry env activate        # open environment shell
-poetry run python main.py  # run a script directly
+poetry env activate
 ```
 
-### 4. Run tests
-
+## Running the Scraper (weekly job)
+Generate a fresh NDJSON dataset (defaults to `data/ipa251002.xml`):
 ```bash
-poetry run pytest -v
+make run-cli
 ```
 
----
-
-### 🧠 Notes
-
-* Poetry auto-manages virtual environments.
-* No need for manual `venv` setup.
-* `package-mode = false` keeps this project dependency-only.
-
-Run scripts with:
-
+For the MVP, treat this as the weekly cron/automation entrypoint. You can override the input/output paths:
 ```bash
-poetry run python main.py
+poetry run python ingest/cli.py scrape \
+    --start-date 20251001 \
+    --end-date 20251002 \
+    --input-xml data/sample.xml \
+    --output-dir data/
 ```
+Schedule the command (e.g. cron, GitHub Actions) to run once a week.
 
+## Running the UI
+Launch the Streamlit dashboard:
+```bash
+make run-ui
+```
+This sets `PYTHONPATH=.`, so Streamlit can import `visualise.*`. Open the URL shown in the terminal to explore patents. Use the sidebar to search titles and download filtered CSVs (named `filtered_patents.csv`).
+
+## Tests
+Execute the full test suite:
+```bash
+make test
+```
+This runs pytest across CLI, ingestion, and Streamlit helper modules. All tests pass against the sample data.
+
+## Data Schema & Assumptions
+Each JSONL record emitted by `stream_and_write` looks like:
+```json
+{"title": "Some Patent", "cpc": ["A01B1/02", "B25G1/01"]}
+```
+- `title`: string, invention title pulled from the patent application
+- `cpc`: list of normalized CPC classification codes
+- Filtered to pub dates within `[start_date, end_date]` and CPC prefixes in `ingest/cpc_prefixes.py`
+
+The visualiser consumes the JSONL files as-is; engineers can reuse them downstream (CRM, analytics).
+
+## CSV Exports
+The UI offers a “💾 Export CSV” button. Click to download the current filtered subset as `filtered_patents.csv`. The file is streamed directly to the browser (no server-side persistence). Large datasets may take a moment to generate; if performance becomes an issue, consider batching or limiting the page size.
+
+## Next Steps
+- Automate the weekly scrape via cron/GitHub Actions
+- Extend the dataset schema (inventors, assignees, etc.)
+- Optionally expose an API once internal workflows stabilize
