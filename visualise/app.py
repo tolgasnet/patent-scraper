@@ -1,7 +1,14 @@
 from typing import Callable, NamedTuple
+from pathlib import Path
+import sys
 
 import pandas as pd
 import streamlit as st
+
+# Ensure project root is on sys.path when executed by Streamlit Cloud or similar
+ROOT = Path(__file__).resolve().parent.parent
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
 from visualise import ui_components as ui
 from visualise.cpc_filters import filter_by_title
