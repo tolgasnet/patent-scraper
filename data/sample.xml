@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20250301933A1-20251002.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20250915" date-publ="20251002">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20250301933</doc-number>
+<kind>A1</kind>
+<date>20251002</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18616324</doc-number>
+<date>20240326</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>25</class>
+<subclass>G</subclass>
+<main-group>1</main-group>
+<subgroup>01</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>25</class>
+<subclass>G</subclass>
+<main-group>1</main-group>
+<subgroup>01</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">SPRING ACTION SHOVEL</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>LOGAN</last-name>
+<first-name>TITUS</first-name>
+<address>
+<city>TRUMBULL</city>
+<state>CT</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>LOGAN</last-name>
+<first-name>TITUS</first-name>
+<address>
+<city>TRUMBULL</city>
+<state>CT</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The spring action shovel includes a hand grip, a shaft, a shock absorbing mechanism, and a shovel blade. The spring action shovel may be a hand-operated tool for moving material. The spring action shovel may be adapted to be held by placing a first user hand on the shaft and a second user hand on the hand grip. The shock absorbing mechanism may be located within the shaft and may be configured to minimize injuries due to repetitive or impactful motions of the shovel blade. The shock absorbing mechanism may comprise a stiffness adjustment that may be adapted for a user to vary the compressive stiffness of the shock absorbing mechanism.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="196.09mm" wi="113.62mm" file="US20250301933A1-20251002-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="200.66mm" wi="116.50mm" file="US20250301933A1-20251002-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="192.19mm" wi="98.89mm" file="US20250301933A1-20251002-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="204.72mm" wi="163.07mm" file="US20250301933A1-20251002-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="223.94mm" wi="149.44mm" orientation="landscape" file="US20250301933A1-20251002-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="229.11mm" wi="116.08mm" file="US20250301933A1-20251002-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="225.04mm" wi="110.32mm" file="US20250301933A1-20251002-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="218.69mm" wi="94.49mm" file="US20250301933A1-20251002-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="233.60mm" wi="154.86mm" file="US20250301933A1-20251002-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="199.22mm" wi="134.03mm" orientation="landscape" file="US20250301933A1-20251002-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="222.33mm" wi="152.99mm" orientation="landscape" file="US20250301933A1-20251002-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCES TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">Not Applicable</p>
+<heading id="h-0002" level="1">STATEMENT REGARDING FEDERALLY SPONSORED RESEARCH</heading>
+<p id="p-0003" num="0002">Not Applicable</p>
+<heading id="h-0003" level="1">REFERENCE TO APPENDIX</heading>
+<p id="p-0004" num="0003">Not Applicable</p>
+<heading id="h-0004" level="1">BACKGROUND OF THE INVENTION</heading>
+<heading id="h-0005" level="1">Field of the Invention</heading>
+<p id="p-0005" num="0004">The present invention relates to the field of tools, more specifically, a spring action shovel.</p>
+<heading id="h-0006" level="1">SUMMARY OF INVENTION</heading>
+<p id="p-0006" num="0005">The spring action shovel may comprise a hand grip, a shaft, a shock absorbing mechanism, and a shovel blade. The spring action shovel may be a hand-operated tool for moving material. The spring action shovel may be adapted to be held by placing a first user hand on the shaft and a second user hand on the hand grip. The shock absorbing mechanism may be located within the shaft and may be configured to minimize injuries due to repetitive or impactful motions of the shovel blade. The shock absorbing mechanism may comprise a stiffness adjustment that may be adapted for a user to vary the compressive stiffness of the shock absorbing mechanism.</p>
+<p id="p-0007" num="0006">An object of the invention is to provide a shovel for moving materials.</p>
+<p id="p-0008" num="0007">Another object of the invention is to provide a two-part handle comprising an outer shaft and an inner shaft that may telescopically move independently of each other to change the length of the shovel.</p>
+<p id="p-0009" num="0008">A further object of the invention is to provide a shock absorbing mechanism comprising a spring within the handle.</p>
+<p id="p-0010" num="0009">Yet another object of the invention is to provide a stiffness adjustment that is accessible to the user.</p>
+<p id="p-0011" num="0010">These together with additional objects, features and advantages of the spring action shovel will be readily apparent to those of ordinary skill in the art upon reading the following detailed description of the presently preferred, but nonetheless illustrative, embodiments when taken in conjunction with the accompanying drawings.</p>
+<p id="p-0012" num="0011">In this respect, before explaining the current embodiments of the spring action shovel in detail, it is to be understood that the spring action shovel is not limited in its applications to the details of construction and arrangements of the components set forth in the following description or illustration. Those skilled in the art will appreciate that the concept of this disclosure may be readily utilized as a basis for the design of other structures, methods, and systems for carrying out the several purposes of the spring action shovel.</p>
+<p id="p-0013" num="0012">It is therefore important that the claims be regarded as including such equivalent construction insofar as they do not depart from the spirit and scope of the spring action shovel. It is also to be understood that the phraseology and terminology employed herein are for purposes of description and should not be regarded as limiting.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0014" num="0013">The accompanying drawings, which are included to provide a further understanding of the invention are incorporated in and constitute a part of this specification, illustrate an embodiment of the invention and together with the description serve to explain the principles of the invention. They are meant to be exemplary illustrations provided to enable persons skilled in the art to practice the disclosure and are not intended to limit the scope of the appended claims.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is an isometric top front view of an embodiment of the disclosure.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is an isometric bottom rear view of an embodiment of the disclosure.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front view of an embodiment of the disclosure, illustrating the shovel when the spring is expanded.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a front view of an embodiment of the disclosure, illustrating the shovel when the spring is compressed.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is an isometric detail view of an embodiment of the disclosure.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a cross-sectional view of an embodiment of the disclosure, illustrating the shovel when the spring is expanded.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a cross-sectional view of an embodiment of the disclosure, illustrating the shovel when the spring is compressed.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a cross-sectional view of an embodiment of the disclosure, illustrating use of the stiffness adjustment.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is an exploded view of an embodiment of the disclosure, illustrating the stiffness adjustment.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is an exploded view of an embodiment of the disclosure, illustrating the hand grip.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is an exploded view of an embodiment of the disclosure, illustrating the shovel blade.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0008" level="1">DETAILED DESCRIPTION OF THE EMBODIMENT</heading>
+<p id="p-0026" num="0025">The following detailed description is merely exemplary in nature and is not intended to limit the described embodiments of the application and uses of the described embodiments. As used herein, the word &#x201c;exemplary&#x201d; or &#x201c;illustrative&#x201d; means &#x201c;serving as an example, instance, or illustration.&#x201d; Any implementation described herein as &#x201c;exemplary&#x201d; or &#x201c;illustrative&#x201d; is not necessarily to be construed as preferred or advantageous over other implementations. All of the implementations described below are exemplary implementations provided to enable persons skilled in the art to practice the disclosure and are not intended to limit the scope of the appended claims. Furthermore, there is no intention to be bound by any expressed or implied theory presented in the preceding technical field, background, brief summary or the following detailed description. As used herein, the word &#x201c;or&#x201d; is intended to be inclusive.</p>
+<p id="p-0027" num="0026">Detailed reference will now be made to a first potential embodiment of the disclosure, which is illustrated in <figref idref="DRAWINGS">FIGS. <b>1</b> through <b>11</b></figref>.</p>
+<p id="p-0028" num="0027">The spring action shovel <b>100</b> (hereinafter invention) comprises a hand grip <b>104</b>, a shaft <b>132</b>, a shock absorbing mechanism, and a shovel blade <b>103</b>. The invention <b>100</b> may be a hand-operated tool for moving material. The invention <b>100</b> may be adapted to be held by placing a first user hand on the shaft <b>132</b> and a second user hand on the hand grip <b>104</b>. The shock absorbing mechanism may be located within the shaft <b>132</b> and may be configured to minimize injuries due to repetitive or impactful motions of the shovel blade <b>103</b>. The shock absorbing mechanism may comprise a stiffness adjustment that may be adapted for a user to vary the compressive stiffness of the shock absorbing mechanism.</p>
+<p id="p-0029" num="0028">The hand grip <b>104</b> may be adapted to be grasped by the user. The hand grip <b>104</b> may be a D-grip comprising a straight horizontal top portion <b>150</b> and a semi-circular or V-shaped lower portion <b>152</b>. The hand grip <b>104</b> may be coupled to the upper end of the shaft <b>132</b>.</p>
+<p id="p-0030" num="0029">The top of the shaft <b>132</b> may be coupled to the hand grip <b>104</b> and the bottom of the shaft <b>132</b> may be coupled to the shovel blade <b>103</b>. The shaft <b>132</b> may comprise an outer shaft <b>101</b> at the top and an inner shaft <b>102</b> at the bottom. The inner shaft <b>102</b> may have a smaller diameter that the outer shaft <b>101</b> and may slide within the outer shaft <b>101</b>. Thus, the length of the shaft <b>132</b> may vary.</p>
+<p id="p-0031" num="0030">The top end of the outer shaft <b>101</b> may be terminated by an upper plug <b>108</b>. The bottom end of the inner shaft <b>102</b> may be terminated by a lower plug <b>115</b>.</p>
+<p id="p-0032" num="0031">The outer shaft <b>101</b> may be a cylindrical tube comprising an upper cavity. The upper cavity may be a hollow central portion of the outer shaft <b>101</b>. The top of the outer shaft <b>101</b> may be coupled to the bottom of the hand grip <b>104</b>.</p>
+<p id="p-0033" num="0032">The inner shaft <b>102</b> may be a cylindrical tube comprising a lower cavity. The lower cavity may be a hollow central portion of the inner shaft <b>102</b>. The bottom of the inner shaft <b>102</b> may be coupled to the shovel blade <b>103</b> using a shovel attachment screw <b>120</b>.</p>
+<p id="p-0034" num="0033">The outside diameter of inner shaft may be less than the inside diameter of outer shaft such that the inner shaft <b>102</b> may slide into the upper cavity. When the outer shaft <b>101</b>, the inner shaft <b>102</b>, and a spring <b>130</b> are assembled, the outer shaft <b>101</b> may overlap the inner shaft <b>102</b> by a minimum of 5 inches. The upper cavity may provide space for the inner shaft <b>102</b> to slide further into the outer shaft <b>101</b> to accommodate compression of the spring <b>130</b>. The upper cavity and the lower cavity may provide space to house the spring <b>130</b>.</p>
+<p id="p-0035" num="0034">The shock absorbing mechanism may be a device that absorbs and dampens shock impulses. As a non-limiting example, if the shovel blade <b>103</b> encounters a rock while shoveling material and forward movement of the shovel blade <b>103</b> stops abruptly, the shock absorbing mechanism may absorb the shock impulse instead of passing the shock impulse to the user via the shaft <b>132</b>.</p>
+<p id="p-0036" num="0035">The shock absorbing mechanism may comprise the spring <b>130</b> and the stiffness adjustment. The spring <b>130</b> may be housed within the shaft <b>132</b> where the spring <b>130</b> may be inaccessible to the user for safety reasons. The outside diameter of the spring may be less than the inside diameter of inside shaft so that the spring <b>130</b> may fit into the shaft <b>132</b>. The upper end of the spring <b>130</b> may couple indirectly to the outer shaft <b>101</b> via the stiffness adjustment. The lower end of the spring <b>130</b> may couple to the inner shaft <b>102</b>. The spring <b>130</b> may enable the inner shaft <b>102</b> to move relative to the outer shaft <b>101</b>. The longitudinal axes of the outer shaft <b>101</b>, the inner shaft <b>102</b>, and the spring <b>130</b> may be aligned along the longitudinal axis of the shaft <b>132</b>.</p>
+<p id="p-0037" num="0036">The spring <b>130</b> may be a helical compression spring. The spring <b>130</b> may comprise an upper spring <b>112</b>, a lower spring <b>114</b>, and a buffer bushing <b>113</b>. The upper spring <b>112</b> may be located above the lower spring <b>114</b>. The upper spring <b>112</b> may be coupled to the lower spring <b>114</b> at the buffer bushing <b>113</b>. The top end of the upper spring <b>112</b> may be coupled to the bottom of a spring block <b>111</b>.</p>
+<p id="p-0038" num="0037">The buffer busing <b>113</b> serves multiple purposes:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0038">1 it acts as an inertial body to aid in impact reduction such that after impact it will also continue to move in a downward direction compressing the lower spring;</li>
+        <li id="ul0002-0002" num="0039">2 it acts as an impulse reducer at maximum compressed state, which prevents the tool from damage to the shovel (or user) by absorbing the impact load once the springs are fully compressed; and</li>
+        <li id="ul0002-0003" num="0040">3 it acts as a dampener to reduce &#x2018;kickback&#x2019; or vibration by having a slight friction fit between the walls of the tube such that the buffer will attenuate the spring vibration.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0039" num="0041">The stiffness adjustment may be adapted for the user to grasp and turn in order to adjust compression of the spring <b>130</b>. The stiffness adjustment comprises a spring adjustment knob <b>105</b>, a spring adjustment rod <b>110</b>, a guide screw <b>107</b>, and the spring block <b>111</b>. The spring adjustment knob <b>105</b> may be accessible within the fork of the hand grip <b>104</b>. The spring adjustment knob <b>105</b> may be coupled to the top of the spring adjustment rod <b>110</b> such that turning the spring adjustment knob <b>105</b> rotates the spring adjustment rod <b>110</b>. The bottom end of the spring adjustment rod <b>110</b> may be threaded and may threadedly couple to an aperture in the top center of the spring block <b>111</b>. Rotation of the spring adjustment rod <b>110</b> may move the spring block <b>111</b> linearly within the shaft <b>132</b>. The spring block <b>111</b> may move up within the shaft <b>132</b> when the spring adjustment knob <b>105</b> is turned in a first rotational direction <b>290</b> and the spring block <b>111</b> may move down within the shaft <b>132</b> when the spring adjustment knob <b>105</b> is turned in a second rotational direction <b>292</b>, or vice versa. Because the top of the spring <b>130</b> is coupled to the spring block <b>111</b>, turning the spring adjustment knob <b>105</b> may change the length, and therefore the amount of compression, of the spring <b>130</b>.</p>
+<p id="p-0040" num="0042">Compressing the spring <b>130</b> may result in less travel distance for the outer shaft <b>101</b> and may establish a hard setting <b>294</b> for the invention <b>100</b>. The hard setting <b>294</b> may make the invention <b>100</b> feel more rigid and therefore it may be easier for the user to feel shock impulses. Decompressing the spring <b>130</b> may result in more travel distance for the outer shaft <b>101</b> and may establish a soft setting <b>296</b> for the invention <b>100</b>. The soft setting <b>296</b> may make the invention <b>100</b> feel less rigid and therefore it may absorb more of the shock impulses.</p>
+<p id="p-0041" num="0043">The guide screw <b>107</b> may be coupled to the outer shaft <b>101</b> and may pass laterally through the center of the outer shaft <b>101</b>. The guide screw <b>107</b> may pass through an adjustment slot <b>122</b> in the spring block <b>111</b>. The guide screw <b>107</b> may permit the spring block <b>111</b> to move linearly within the shaft <b>132</b> and may prevent the spring block <b>111</b> from rotating within the shaft <b>132</b>.</p>
+<p id="p-0042" num="0044">In use, the invention <b>100</b> may be held by the user and used to move material. In general, the shovel blade <b>103</b> may be moved forward to a position under the material by pushing the hand grip <b>104</b> in the direction of the material. As the invention <b>100</b> is pushed forward, the shovel blade <b>103</b> may slide smoothly into the material less the shovel blade <b>103</b> strikes an obstacle. As a non-limiting example, the obstacle may be a large rock. The obstacle may abruptly stop forward motion of the shovel blade <b>103</b>. Responsive to striking the obstacle, the spring <b>130</b> may compress to absorb the shock of the sudden stop instead of conveying the shock through the invention <b>100</b> to the user's hands, arms, and shoulders. Compression of the spring <b>130</b> may allow the outer shaft <b>101</b> and the hand grip <b>104</b> to stop moving gradually. As the spring <b>130</b> compresses, the outer shaft <b>101</b> may slide towards the inner shaft <b>102</b>. Eventually, the spring <b>130</b> may rebound and push the outer shaft <b>101</b> back to its original position relative to the inner shaft <b>102</b>.</p>
+<heading id="h-0009" level="1">Definitions</heading>
+<p id="p-0043" num="0045">Unless otherwise stated, the words &#x201c;up&#x201d;, &#x201c;down&#x201d;, &#x201c;top&#x201d;, &#x201c;bottom&#x201d;, &#x201c;upper&#x201d;, and &#x201c;lower&#x201d; should be interpreted within a gravitational framework. &#x201c;Down&#x201d; is the direction that gravity would pull an object. &#x201c;Up&#x201d; is the opposite of &#x201c;down&#x201d;. &#x201c;Bottom&#x201d; is the part of an object that is down farther than any other part of the object. &#x201c;Top&#x201d; is the part of an object that is up farther than any other part of the object. &#x201c;Upper&#x201d; may refer to top and &#x201c;lower&#x201d; may refer to the bottom. As a non-limiting example, the upper end of a vertical shaft is the top end of the vertical shaft.</p>
+<p id="p-0044" num="0046">As used in this disclosure, an &#x201c;aperture&#x201d; may be an opening in a surface or object. Aperture may be synonymous with hole, slit, crack, gap, slot, or opening.</p>
+<p id="p-0045" num="0047">As used in this disclosure, a &#x201c;cavity&#x201d; may be an empty space or negative space that is formed within an object.</p>
+<p id="p-0046" num="0048">In this disclosure, &#x201c;compress&#x201d; may refer to forcing into a smaller space.</p>
+<p id="p-0047" num="0049">As used in this disclosure, a &#x201c;compression spring&#x201d; may be a wire coil that resists forces attempting to compress the wire coil in the direction of the center axis of the wire coil. The compression spring will return to its original position when the compressive force is removed.</p>
+<p id="p-0048" num="0050">As used herein, the words &#x201c;couple&#x201d;, &#x201c;couples&#x201d;, &#x201c;coupled&#x201d; or &#x201c;coupling&#x201d;, may refer to connecting, either directly or indirectly, and does not necessarily imply a mechanical connection.</p>
+<p id="p-0049" num="0051">As used in this disclosure, a &#x201c;helix&#x201d; may be the three dimensional structure that is formed by a wire that is wound uniformly around the surface of a cylinder or a cone. If the wire is wrapped around a cylinder the helix is called a cylindrical helix. If the wire is wrapped around a cone, the helix is called a conical helix. &#x201c;Helical&#x201d; may be an adjective which indicates that an object is shaped like a helix.</p>
+<p id="p-0050" num="0052">As used in this disclosure, &#x201c;horizontal&#x201d; may be a directional term that refers to a direction that is perpendicular to the local force of gravity. Unless specifically noted in this disclosure, the horizontal direction is always perpendicular to the vertical direction.</p>
+<p id="p-0051" num="0053">As used herein, &#x201c;inside diameter&#x201d; or &#x201c;inner diameter&#x201d; may refer to a measurement made on a hollow object. Specifically, the inside diameter is the distance from one inside wall to the opposite inside wall.</p>
+<p id="p-0052" num="0054">As used in this disclosure, the word &#x201c;lateral&#x201d; may refer to the sides of an object or movement towards a side. Lateral directions are generally perpendicular to longitudinal directions. &#x201c;Laterally&#x201d; may refer to movement in a lateral direction.</p>
+<p id="p-0053" num="0055">As used herein, the word &#x201c;longitudinal&#x201d; or &#x201c;longitudinally&#x201d; may refer to a lengthwise or longest direction or to a direction that is perpendicular to the lateral direction.</p>
+<p id="p-0054" num="0056">As used herein, &#x201c;outside diameter&#x201d; or &#x201c;outer diameter&#x201d; may refer to a measurement made on an object. Specifically, the outside diameter is the distance from one point on the outside of the object to a point on the opposite side of the object along a line passing through the center of the object.</p>
+<p id="p-0055" num="0057">As used in this disclosure, the term &#x201c;shaft&#x201d; may be used to describe a rigid cylinder. A shaft is often used as the handle of a tool or implement or as the center of rotating machinery or motors. The definition of shaft explicitly includes solid shafts or shafts that comprise a hollow passage through the shaft along the center axis of the shaft cylinder, whether the shaft has one or more sealed ends or not.</p>
+<p id="p-0056" num="0058">As used in this disclosure, a &#x201c;shovel&#x201d; may be a tool that is used for lifting and moving bulk items such as dirt, snow, or gravel. A shovel can be a hand tool or a mechanical device.</p>
+<p id="p-0057" num="0059">As used in this disclosure, a &#x201c;slot&#x201d; may be a prism-shaped negative space formed as a groove, cut, opening, or aperture in or through an object.</p>
+<p id="p-0058" num="0060">As used in this disclosure, a &#x201c;spring&#x201d; may be a device that is used to store mechanical energy. This mechanical energy will often be stored by deforming an elastomeric material that is used to make the device, by the application of a torque to a rigid structure, or by a combination thereof. In some embodiments, the rigid structure to which torque is applied may be composed of metal or plastic.</p>
+<p id="p-0059" num="0061">As used herein, &#x201c;travel&#x201d; or &#x201c;travel distance&#x201d; may refer to the maximum distance that a mechanical part may move due to constraints imposed by the system. As a non-limiting example, the travel distance of a component may be constrained by interference with one or more other components such as mechanical stops.</p>
+<p id="p-0060" num="0062">With respect to the above description, it is to be realized that the optimum dimensional relationship for the various components of the invention described above and in <figref idref="DRAWINGS">FIGS. <b>1</b> through <b>11</b></figref>, include variations in size, materials, shape, form, function, and manner of operation, assembly and use, are deemed readily apparent and obvious to one skilled in the art, and all equivalent relationships to those illustrated in the drawings and described in the specification are intended to be encompassed by the invention.</p>
+<p id="p-0061" num="0063">It shall be noted that those skilled in the art will readily recognize numerous adaptations and modifications which can be made to the various embodiments of the present invention which will result in an improved invention, yet all of which will fall within the spirit and scope of the present invention as defined in the following claims. Accordingly, the invention is to be limited only by the scope of the following claims and their equivalents.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A spring action shovel comprising:
+<claim-text>a hand grip, a shaft, a shock absorbing mechanism, and a shovel blade;</claim-text>
+<claim-text>wherein the spring action shovel is a hand-operated tool for moving material;</claim-text>
+<claim-text>wherein the spring action shovel is adapted to be held by placing a first user hand on the shaft and a second user hand on the hand grip;</claim-text>
+<claim-text>wherein the shock absorbing mechanism is located within the shaft and is configured to minimize injuries due to repetitive or impactful motions of the shovel blade;</claim-text>
+<claim-text>wherein the shock absorbing mechanism comprises a stiffness adjustment that is adapted for a user to vary the compressive stiffness of the shock absorbing mechanism.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The spring action shovel according to <claim-ref idref="CLM-00001">claim 1</claim-ref>
+<claim-text>wherein the hand grip is adapted to be grasped by the user;</claim-text>
+<claim-text>wherein the hand grip is a D-grip comprising a straight horizontal top portion and a semi-circular or V-shaped lower portion;</claim-text>
+<claim-text>wherein the hand grip is coupled to the upper end of the shaft.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The spring action shovel according to <claim-ref idref="CLM-00002">claim 2</claim-ref>
+<claim-text>wherein the top of the shaft is coupled to the hand grip and the bottom of the shaft is coupled to the shovel blade;</claim-text>
+<claim-text>wherein the shaft comprises an outer shaft at the top and an inner shaft at the bottom.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The spring action shovel according to <claim-ref idref="CLM-00003">claim 3</claim-ref>
+<claim-text>wherein the inner shaft has a smaller diameter that the outer shaft and slides within the outer shaft;</claim-text>
+<claim-text>wherein the length of the shaft is variable.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The spring action shovel according to <claim-ref idref="CLM-00004">claim 4</claim-ref>
+<claim-text>wherein the top end of the outer shaft is terminated by an upper plug;</claim-text>
+<claim-text>wherein the bottom end of the inner shaft is terminated by a lower plug.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The spring action shovel according to <claim-ref idref="CLM-00005">claim 5</claim-ref>
+<claim-text>wherein the outer shaft is a cylindrical tube comprising an upper cavity;</claim-text>
+<claim-text>wherein the upper cavity is a hollow central portion of the outer shaft;</claim-text>
+<claim-text>wherein the top of the outer shaft is coupled to the bottom of the hand grip.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The spring action shovel according to <claim-ref idref="CLM-00006">claim 6</claim-ref>
+<claim-text>wherein the inner shaft is a cylindrical tube comprising a lower cavity;</claim-text>
+<claim-text>wherein the lower cavity is a hollow central portion of the inner shaft;</claim-text>
+<claim-text>wherein the bottom of the inner shaft is coupled to the shovel blade using a shovel attachment screw.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The spring action shovel according to <claim-ref idref="CLM-00007">claim 7</claim-ref>
+<claim-text>wherein the outside diameter of inner shaft is less than the inside diameter of outer shaft such that the inner shaft slides into the upper cavity;</claim-text>
+<claim-text>wherein the upper cavity provides space for the inner shaft to slide further into the outer shaft to accommodate compression of a spring;</claim-text>
+<claim-text>wherein the upper cavity and the lower cavity provide space to house the spring.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The spring action shovel according to <claim-ref idref="CLM-00008">claim 8</claim-ref>
+<claim-text>wherein when the outer shaft, the inner shaft, and the spring are assembled, the outer shaft overlaps the inner shaft by a minimum of 5 inches.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The spring action shovel according to <claim-ref idref="CLM-00008">claim 8</claim-ref>
+<claim-text>wherein the shock absorbing mechanism is a device that absorbs and dampens shock impulses;</claim-text>
+<claim-text>wherein the shock absorbing mechanism comprises the spring and the stiffness adjustment;</claim-text>
+<claim-text>wherein the spring is housed within the shaft where the spring is inaccessible for safety reasons.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The spring action shovel according to <claim-ref idref="CLM-00010">claim 10</claim-ref>
+<claim-text>wherein the outside diameter of the spring is less than the inside diameter of inside shaft so that the spring fits into the shaft.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The spring action shovel according to <claim-ref idref="CLM-00011">claim 11</claim-ref>
+<claim-text>wherein the upper end of the spring couples indirectly to the outer shaft via the stiffness adjustment.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The spring action shovel according to <claim-ref idref="CLM-00012">claim 12</claim-ref>
+<claim-text>wherein the lower end of the spring couples to the inner shaft.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The spring action shovel according to <claim-ref idref="CLM-00013">claim 13</claim-ref>
+<claim-text>wherein the spring enables the inner shaft to move relative to the outer shaft;</claim-text>
+<claim-text>wherein the longitudinal axes of the outer shaft, the inner shaft, and the spring are aligned along the longitudinal axis of the shaft.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The spring action shovel according to <claim-ref idref="CLM-00014">claim 14</claim-ref>
+<claim-text>wherein the spring is a helical compression spring;</claim-text>
+<claim-text>wherein the spring comprises an upper spring, a lower spring, and a buffer bushing;</claim-text>
+<claim-text>wherein the upper spring is located above the lower spring;</claim-text>
+<claim-text>wherein the upper spring is coupled to the lower spring at the buffer bushing;</claim-text>
+<claim-text>wherein the top end of the upper spring is coupled to the bottom of a spring block.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The spring action shovel according to <claim-ref idref="CLM-00015">claim 15</claim-ref>
+<claim-text>wherein the stiffness adjustment is adapted for the user to grasp and turn in order to adjust compression of the spring;</claim-text>
+<claim-text>wherein the stiffness adjustment comprises a spring adjustment knob, a spring adjustment rod, a guide screw, and the spring block;</claim-text>
+<claim-text>wherein the spring adjustment knob is accessible within the fork of the hand grip;</claim-text>
+<claim-text>wherein the spring adjustment knob is coupled to the top of the spring adjustment rod such that turning the spring adjustment knob rotates the spring adjustment rod.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The spring action shovel according to <claim-ref idref="CLM-00016">claim 16</claim-ref>
+<claim-text>wherein the bottom end of the spring adjustment rod is threaded and threadedly couples to an aperture in the top center of the spring block;</claim-text>
+<claim-text>wherein rotation of the spring adjustment rod moves the spring block linearly within the shaft;</claim-text>
+<claim-text>wherein the spring block moves up within the shaft when the spring adjustment knob is turned in a first rotational direction and the spring block moves down within the shaft when the spring adjustment knob is turned in a second rotational direction, or vice versa;</claim-text>
+<claim-text>wherein turning the spring adjustment knob changes the length, and therefore the amount of compression, of the spring.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The spring action shovel according to <claim-ref idref="CLM-00017">claim 17</claim-ref>
+<claim-text>wherein compressing the spring results in less travel distance for the outer shaft and establishes a hard setting for the spring action shovel.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The spring action shovel according to <claim-ref idref="CLM-00018">claim 18</claim-ref>
+<claim-text>wherein decompressing the spring results in more travel distance for the outer shaft and establishes a soft setting for the spring action shovel.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The spring action shovel according to <claim-ref idref="CLM-00019">claim 19</claim-ref>
+<claim-text>wherein the guide screw is coupled to the outer shaft and passes laterally through the center of the outer shaft;</claim-text>
+<claim-text>wherein the guide screw passes through an adjustment slot in the spring block;</claim-text>
+<claim-text>wherein the guide screw permits the spring block to move linearly within the shaft and prevents the spring block from rotating within the shaft.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20250301934A1-20251002.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20250915" date-publ="20251002">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20250301934</doc-number>
+<kind>A1</kind>
+<date>20251002</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>19234908</doc-number>
+<date>20250611</date>
+</document-id>
+</application-reference>
+<us-application-series-code>19</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>63</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>79</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>79</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>C</subclass>
+<main-group>5</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>C</subclass>
+<main-group>7</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>63</main-group>
+<subgroup>008</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>C</subclass>
+<main-group>5</main-group>
+<subgroup>062</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>C</subclass>
+<main-group>7</main-group>
+<subgroup>203</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>79</main-group>
+<subgroup>005</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>79</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>C</subclass>
+<main-group>5</main-group>
+<subgroup>066</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20251002</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">AGRICULTURAL IMPLEMENT WITH VISION SENSORS</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16871922</doc-number>
+<date>20200511</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11622493</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>19234908</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62846165</doc-number>
+<date>20190510</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62985989</doc-number>
+<date>20200306</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Great Plains Manufacturing, Inc.</orgname>
+<address>
+<city>Salina</city>
+<state>KS</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Arnett</last-name>
+<first-name>Gregory W.</first-name>
+<address>
+<city>Garden City</city>
+<state>MO</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Schott</last-name>
+<first-name>James Edward</first-name>
+<address>
+<city>McPherson</city>
+<state>KS</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Haggard</last-name>
+<first-name>Paul Harold</first-name>
+<address>
+<city>Iowa City</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Goodon</last-name>
+<first-name>Matthew D.</first-name>
+<address>
+<city>Salina</city>
+<state>KS</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Ohnsat</last-name>
+<first-name>Michael J.</first-name>
+<address>
+<city>Tipton</city>
+<state>KS</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An agricultural implement broadly includes a ground-engaging tool, a time-of-flight sensor, and a controller. The time-of-flight sensor is configured to obtain information indicative of seed parameters, furrow parameters, and/or soil condition parameters. The controller is configured to process the information obtained by the time-of-flight sensor to generate the parameters, wherein the controller is further configured to automatically control operation of one or more components of the implement based on the parameters.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="109.47mm" wi="158.75mm" file="US20250301934A1-20251002-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="253.66mm" wi="164.42mm" orientation="landscape" file="US20250301934A1-20251002-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="236.98mm" wi="150.03mm" orientation="landscape" file="US20250301934A1-20251002-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="255.52mm" wi="167.89mm" orientation="landscape" file="US20250301934A1-20251002-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="236.30mm" wi="157.06mm" file="US20250301934A1-20251002-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="249.94mm" wi="122.94mm" orientation="landscape" file="US20250301934A1-20251002-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="246.63mm" wi="127.08mm" orientation="landscape" file="US20250301934A1-20251002-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="248.24mm" wi="167.56mm" orientation="landscape" file="US20250301934A1-20251002-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="248.50mm" wi="167.39mm" orientation="landscape" file="US20250301934A1-20251002-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="252.31mm" wi="157.82mm" orientation="landscape" file="US20250301934A1-20251002-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="260.01mm" wi="141.22mm" orientation="landscape" file="US20250301934A1-20251002-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="249.51mm" wi="122.17mm" orientation="landscape" file="US20250301934A1-20251002-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="261.96mm" wi="128.52mm" orientation="landscape" file="US20250301934A1-20251002-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="241.38mm" wi="173.99mm" file="US20250301934A1-20251002-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="240.96mm" wi="174.58mm" file="US20250301934A1-20251002-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="259.33mm" wi="142.83mm" orientation="landscape" file="US20250301934A1-20251002-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="259.33mm" wi="159.17mm" orientation="landscape" file="US20250301934A1-20251002-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="255.44mm" wi="161.80mm" file="US20250301934A1-20251002-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation patent application of U.S. application Ser. No. 18/298,096, filed Apr. 10, 2023, entitled AGRICULTURAL IMPLEMENT WITH VISION SENSORS, which is a continuation patent application of U.S. application Ser. No. 16/871,922, filed May 11, 2020, entitled AGRICULTURAL IMPLEMENT WITH VISION SENSORS, which claims the benefit of U.S. Provisional Application Ser. No. 62/985,989, filed Mar. 6, 2020, entitled VISION SENSORS FOR AGRICULTURAL IMPLEMENTS AND PROCESSES, and U.S. Provisional Application Ser. No. 62/846,165, filed May 10, 2019, entitled AGRICULTURAL VISION SENSORS, each of which is hereby incorporated in its entirety by reference herein.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<heading id="h-0003" level="1">1. Field</heading>
+<p id="p-0003" num="0002">The present invention relates generally to agricultural implements. More specifically, embodiments of the present invention concern agricultural implements that use vision sensors.</p>
+<heading id="h-0004" level="1">2. Discussion of Prior Art</heading>
+<p id="p-0004" num="0003">Agricultural seeders and planters are well known for distributing crop seeds uniformly along a field. Conventional seeders and planters are configured to deposit rows of seed in a single pass by opening a series of furrows, depositing seed in the furrows, and then closing the furrows. It is customary for such prior art machines to have a series of openers to form the furrows and deposit seed. Such machines also include seed metering devices to dispense seed to the openers at a predetermined rate, and the seeds may be dispensed in a singulated or non-singulated manner. It is known in the art for conventional planters to be configured for planting seeds so that a predetermined number of seeds are planted per foot or per acre.</p>
+<p id="p-0005" num="0004">However, conventional seeding and planting equipment have various disadvantages. Prior art seeding and planting implements are generally prone to inaccurate dispensing of seed and to other types of operating failures. Passive methods are used for setting seed spacing and improving seed settling in the furrow. For instance, mechanical seed metering devices are known for passively setting a seed spacing by mechanically metering seed and dropping seed toward a furrow. However, such mechanical devices are inaccurate due to wear and/or failure of mechanical components. It is also known to use sensors to count seeds that are advanced toward a furrow. However, conventional sensor arrangements in air seeders are unable to accurately count seed that recirculates past the sensor. Known sensors detect seeds that are being transferred from a metering device to the soil and infer the final spacing based on what is detected as they are transferred. It is known that some seeds will roll or bounce as they transition from the transferring device and enter the soil furrow. However, prior art sensors are unable to sense or capture the effect of roll or bounce on final seed location.</p>
+<p id="p-0006" num="0005">Known agricultural tillage implements include one or more ground-engaging tools supported by and extending down from a frame to engage the ground during tilling operations. Conventional tillage implements have adjustable wheels that are adjusted by a hydraulic actuator to shift the wheels vertically with respect to the frame.</p>
+<p id="p-0007" num="0006">Prior art tillage implements, particularly when used prior to seeding or planting, are problematic for a number of reasons. For example, conventional tillage systems are unable to measure or otherwise determine the amount of plant material residue covering the ground where the tillage implement has passed. Known tillage systems also do not measure tillage conditions, such as tillage depth or soil quality, where the tillage implement has passed. These systems are also unable to use such data to adjust tillage implement settings during tilling operations.</p>
+<p id="p-0008" num="0007">This background discussion is intended to provide information related to the present invention which is not necessarily prior art.</p>
+<heading id="h-0005" level="1">SUMMARY</heading>
+<p id="p-0009" num="0008">The following brief summary is provided to indicate the nature of the subject matter disclosed herein. While certain aspects of the present invention are described below, the summary is not intended to limit the scope of the present invention.</p>
+<p id="p-0010" num="0009">Embodiments of the present invention provide an implement that does not suffer from the problems and limitations of prior art devices, including those set forth above.</p>
+<p id="p-0011" num="0010">A first aspect of the present invention concerns a seeding implement for depositing seeds into a furrow formed in ground. The seeding implement broadly includes a furrow opener, a seed distribution element, a time-of-flight sensor, and a controller. The furrow opener is configured to create the furrow in the ground. The seed distribution element is configured to deposit seeds in the furrow. The time-of-flight sensor is configured to obtain information indicative of one or more seed parameters of the seeds deposited in the furrow. The controller is configured to process the information obtained by the time-of-flight sensor to generate the one or more seed parameters, wherein the controller is further configured to automatically control operation of one or more components of the seeding implement based on the one or more seed parameters.</p>
+<p id="p-0012" num="0011">A second aspect of the present invention concerns a seeding implement for depositing seeds into a furrow formed in a ground. The seeding implement broadly includes a furrow opener, a seed distribution element, a time-of-flight sensor, and a controller. The furrow opener is configured to create the furrow in the ground. The seed distribution element is configured to deposit seeds in the furrow. The time-of-flight sensor is configured to obtain information indicative of one or more furrow parameters of the furrow. The controller is configured to process the information obtained by the time-of-flight sensor to generate the one or more furrow parameters, wherein the controller is further configured to automatically control operation of one or more components of the seeding implement based on the one or more furrow parameters.</p>
+<p id="p-0013" num="0012">A third aspect of the present invention concerns a tillage implement for tilling ground. The tillage implement broadly includes a frame, a plurality of ground-engaging tools, at least one time-of-flight sensor, and a controller. The frame is supported above the ground via one or more wheels. The tools are supported by the frame and are configured to engage with the ground to till the ground. The at least one time-of-flight sensor is configured to obtain information indicative of one or more soil condition parameters of the ground. The controller is configured to process the information obtained by the time-of-flight sensor to generate the one or more soil condition parameters, wherein the controller is further configured to automatically control operation of one or more components of the tillage implement based on the one or more soil condition parameters.</p>
+<p id="p-0014" num="0013">This summary is provided to introduce a selection of concepts in a simplified form that are further described below in the detailed description. This summary is not intended to identify key features or essential features of the claimed subject matter, nor is it intended to be used to limit the scope of the claimed subject matter. Other aspects and advantages of the present invention will be apparent from the following detailed description of the embodiments and the accompanying drawing figures.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">BRIEF DESCRIPTION OF THE DRAWING FIGURES</heading>
+<p id="p-0015" num="0014">Preferred embodiments of the invention are described in detail below with reference to the attached drawing figures, wherein:</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a fragmentary schematic elevational view of a seeding implement constructed in accordance with a first preferred embodiment of the present invention, showing an opener assembly used to deposit seed into a furrow via a seed tube, and a time-of-flight sensor to obtain information about the deposited seed;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>1</b>A</figref> is a schematic view of the seeding implement shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, showing a controller operably coupled to the opener assembly and the sensor;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>1</b>B</figref> is a fragmentary schematic elevational view of an alternative seeding implement similar to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, but showing the seed tube replaced with a delivery conveyor that carries seed to the furrow;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a fragmentary elevational view of the seeding implement shown in <figref idref="DRAWINGS">FIGS. <b>1</b>, <b>1</b>A, and <b>1</b>B</figref>, showing a frame, coulter blades, and closing wheels of a seeder assembly, and depicting locations for mounting the sensor above the furrow;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>2</b>A</figref> is a fragmentary perspective of the seeding implement shown in <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>2</b></figref>, looking in a rearward direction to show seed within the furrow and the furrow being closed over the seed;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a schematic front cross-sectional view of the furrow shown in <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>2</b>A</figref>, showing the furrow profile shape, including the furrow width, furrow depth, and furrow angle, and also showing the seed depth;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a schematic side cross-sectional view of the furrow shown in <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>3</b></figref>, showing the seed spacing measured along the length of the furrow between adjacent seeds;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a schematic view of a user interface operably associated with the seeding implement to receive information from the sensor, showing a graphical depiction of furrow parameters obtained from the sensor, including furrow width, furrow depth, and furrow profile, and further depicting seed parameters obtained from the sensor including seed skips, seed doubles, seed depth, and seed spacing;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a schematic view of the user interface similar to <figref idref="DRAWINGS">FIG. <b>5</b></figref>, but with the depicted furrow parameters indicating that the sensed furrow width exceeds maximum target furrow width;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a rear perspective view of a tillage implement constructed in accordance with a second preferred embodiment of the present invention, showing a main frame, wheels, hydraulic actuators, a leveling assembly, and front and rear gangs of coulter blades;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a fragmentary front elevational view of the tillage implement shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, showing a central section, a left inner wing section, and left outer wing section, with the wing sections operable to be folded and unfolded relative to the central section by hydraulic actuators;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>9</b>A</figref> is a fragmentary side elevational view of the tillage implement shown in <figref idref="DRAWINGS">FIGS. <b>7</b> and <b>8</b></figref>, showing the leveling assembly used to level the tillage implement in a fore-and-aft direction;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>9</b>B</figref> is a fragmentary side elevational view of the tillage implement similar to <figref idref="DRAWINGS">FIG. <b>9</b>A</figref>, but showing finishing reels behind the rear gangs of coulter blades;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>10</b>A</figref> is a fragmentary top view of the tillage implement shown in <figref idref="DRAWINGS">FIGS. <b>7</b>-<b>9</b>B</figref>, showing front and rear gangs of coulter blades having a gang angle of zero;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>10</b>B</figref> is a fragmentary top view of the tillage implement similar to <figref idref="DRAWINGS">FIG. <b>10</b>A</figref>, but showing the front gangs of coulter blades shifted to have a gang angle greater than zero;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a front perspective of the tillage implement shown in <figref idref="DRAWINGS">FIGS. <b>7</b>-<b>10</b>B</figref>;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a rear perspective of the tillage implement shown in <figref idref="DRAWINGS">FIGS. <b>7</b>-<b>11</b></figref>;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a schematic view of the tillage implement shown in <figref idref="DRAWINGS">FIGS. <b>7</b>-<b>12</b></figref>, showing the cylinders of the implement operably coupled to a hydraulic power system and controller; and</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a schematic view of the tillage implement shown in <figref idref="DRAWINGS">FIGS. <b>7</b>-<b>13</b></figref>, showing the controller operably coupled to a user interface, height sensors, residue sensors, and temperature sensors.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0035" num="0034">The drawing figures do not limit the present invention to the specific embodiments disclosed and described herein. While the drawings do not necessarily provide exact dimensions or tolerances for the illustrated components or structures, the drawings, not including any purely schematic drawings, are to scale with respect to the relationships between the components of the structures illustrated therein.</p>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0036" num="0035">The following detailed description of embodiments of the invention references the accompanying figures. The embodiments are intended to describe aspects of the invention in sufficient detail to enable those with ordinary skill in the art to practice the invention. The embodiments of the invention are illustrated by way of example and not by way of limitation. Other embodiments may be utilized and changes may be made without departing from the scope of the claims. The following description is, therefore, not limiting. The scope of the present invention is defined only by the appended claims, along with the full scope of equivalents to which such claims are entitled.</p>
+<p id="p-0037" num="0036">In this description, references to &#x201c;one embodiment,&#x201d; &#x201c;an embodiment,&#x201d; or &#x201c;embodiments&#x201d; mean that the feature or features referred to are included in at least one embodiment of the invention. Separate references to &#x201c;one embodiment,&#x201d; &#x201c;an embodiment,&#x201d; or &#x201c;embodiments&#x201d; in this description do not necessarily refer to the same embodiment and are not mutually exclusive unless so stated. Specifically, a feature, component, action, step, etc. described in one embodiment may also be included in other embodiments, but is not necessarily included. Thus, particular implementations of the present invention can include a variety of combinations and/or integrations of the embodiments described herein.</p>
+<heading id="h-0008" level="1">Seeding Implement</heading>
+<p id="p-0038" num="0037">Turning initially to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, an agricultural seeding implement <b>10</b> is configured to deposit seeds S into a series of furrows F formed in the ground G and extending uniformly along a field. The seeding implement may be configured to deposit a variety of crop seeds and may take different forms of agricultural seeders, planters, and/or drills. Embodiments of the seeding implement <b>10</b> may also be configured to deposit seeds at different planting depths and/or spacing.</p>
+<p id="p-0039" num="0038">The seeding implement <b>10</b> may be pulled across a field (which may include one or more sections of soil) to deposit seed within furrows. The implement <b>10</b> is preferably advanced by a towing vehicle (not shown) such as a tractor. In various embodiments, the towing vehicle may include an operator-driven vehicle or an autonomous vehicle for advancing the implement. In general, embodiments of the implement are preferably towed behind the vehicle, although features of the implement may be alternatively located relative to the vehicle (e.g., to one side of the vehicle or in front of the vehicle).</p>
+<p id="p-0040" num="0039">In the depicted embodiment, the seeding implement <b>10</b> preferably includes, among other things, a main frame (not shown), an opener assembly <b>12</b>, a time-of-flight sensor <b>14</b>, and a controller <b>16</b> (see <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>1</b>A</figref>). Although not depicted, the seeding implement <b>10</b> preferably includes a plurality of opener assemblies <b>12</b> spaced laterally along a width of the seeding implement <b>10</b>. Each opener assembly <b>12</b> preferably has at least one corresponding time-of-flight sensor <b>14</b> associated therewith.</p>
+<p id="p-0041" num="0040">Directional terms used in the specification, such as the terms &#x201c;front/forward,&#x201d; &#x201c;back/rear/rearward,&#x201d; &#x201c;left,&#x201d; and &#x201c;right,&#x201d; are given from the viewpoint of one standing at the rear of the implement looking forward. As such, for example, the implement may include a hitch tongue (not shown) at a front of the implement, extending forward from the main frame, for coupling the implement with the towing vehicle. Furthermore, the implement will generally be configured for movement in a forward travel direction, as the implement is propelled by a towing vehicle. As used herein, the term &#x201c;longitudinal&#x201d; will generally refer to a forward and/or rearward direction with respect to the implement. As such, the longitudinal direction is generally parallel with the travel direction. In contrast, the term &#x201c;lateral&#x201d; will generally refer to a rightward and/or leftward direction with respect to the implement. As such, the lateral direction is generally perpendicular with the travel direction.</p>
+<p id="p-0042" num="0041">Turning to <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>6</b></figref>, the seeding implement <b>10</b> preferably includes a plurality of opener assemblies <b>12</b>. In particular, each opener assembly <b>12</b> is preferably attached to a laterally extending toolbar (not shown) of the main frame. In the illustrated embodiment, each opener assembly <b>12</b> preferably includes an opener frame <b>20</b>, an opener <b>22</b>, firmer tail <b>24</b>, closing wheels <b>26</b>, and a seed distribution element <b>28</b> (see <figref idref="DRAWINGS">FIG. <b>2</b></figref>).</p>
+<p id="p-0043" num="0042">Embodiments of the opener <b>22</b> preferably include a pair of coulter blades <b>30</b> rotatably supported by the opener frame <b>20</b> and configured to create the furrow F in the ground G. It will be understood that the coulter blades may be variously configured to form the furrow F.</p>
+<p id="p-0044" num="0043">The seeding implement <b>10</b> is preferably operable to set, among other things, the position of the coulter blades <b>30</b> and closing wheels <b>26</b> to form a desired furrow width and furrow depth and provide a corresponding seed depth (see <figref idref="DRAWINGS">FIG. <b>3</b></figref>). One or more other seeding implement settings may also be adjustable to control aspects of a desired furrow cross-sectional profile shape, such as the furrow angle (see <figref idref="DRAWINGS">FIG. <b>3</b></figref>). As will be explained, the seeding implement <b>10</b> is preferably configured to monitor the furrow width, furrow depth, and/or furrow profile shape.</p>
+<p id="p-0045" num="0044">The seed distribution element <b>28</b> is configured to deposit seeds S into the furrow F and preferably includes a seed tube <b>32</b> adjacent the coulter blades <b>30</b>. In the usual manner, the seed tube <b>32</b> presents an outlet <b>34</b> located laterally between the coulter blades <b>30</b> so that seeds S are directed into the furrow F. However, it is within the ambit of at least some aspects of the present invention for the seeding implement to have an alternative seed distribution device. For instance, as depicted in <figref idref="DRAWINGS">FIG. <b>1</b>B</figref>, the seeding element <b>10</b> may have a delivery conveyor assembly <b>36</b> that carries seed to the furrow. The delivery conveyor assembly <b>36</b> includes an endless conveyor <b>36</b><i>a </i>operably supported by conveyor wheels <b>36</b><i>b. </i>Preferably, the endless conveyor <b>36</b><i>a </i>has a series of conveyor elements <b>36</b><i>c </i>that engage the seed. The endless conveyor <b>36</b> is operable to be advanced to drop or fling the seed into the furrow.</p>
+<p id="p-0046" num="0045">The seeding implement <b>10</b> is preferably configured with seed metering equipment (not shown) to adjustably set the rate of seeds S deposited from the seed tube <b>32</b>. Embodiments of the seeding implement are preferably configured to deposit singulated seeds having a predetermined seed spacing dimension D, which is defined between adjacent pairs of seeds S (see <figref idref="DRAWINGS">FIG. <b>4</b></figref>). It will also be understood that seeding implement embodiments may be operable to dispense non-singulated groups of seeds.</p>
+<p id="p-0047" num="0046">Although not shown, embodiments of the seeding implement may have a distribution element configured to deposit other seed-like objects (such as fertilizer pellets, pesticide pellets, or nutrient pellets) into the furrow. For example, a fertilizer tube may be provided with a configuration and/or position similar to the seed tube for directing fertilizer pellets into the furrow. The implement may be configured so that the rate of fertilizer pellets (or other non-seed objects) deposited from the distribution element is adjustable.</p>
+<heading id="h-0009" level="1">Sensors</heading>
+<p id="p-0048" num="0047">The seeding implement <b>10</b> preferably includes at least one time-of-flight sensor <b>14</b> associated with the opener assembly <b>12</b>. Specifically, embodiments of the present invention may use a sensor <b>14</b>, such as a camera, capable of obtaining and/or performing depth measurements associated with the furrow F, seed S deposited in the furrow F, and/or other non-seed objects deposited along the furrow F.</p>
+<p id="p-0049" num="0048">Turning to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, in the depicted embodiment, a preferred time-of-flight sensor <b>14</b><i>a </i>is preferably positioned between the closing wheel and the coulter blade. In particular, the time-of-flight sensor <b>14</b><i>a </i>is mounted on the firmer tail <b>24</b> at a location behind the coulter wheels <b>30</b>.</p>
+<p id="p-0050" num="0049">As depicted in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, it is also within the scope of the present invention for one or more time-of-flight sensors <b>14</b><i>b </i>to be positioned at alternative locations to obtain and/or perform depth measurements of the furrow, seed, etc. For instance, one or more time-of-flight sensors <b>14</b><i>b </i>may be supported relative to the opener frame <b>20</b> at alternative positions between the coulter blade and closing wheel (see <figref idref="DRAWINGS">FIG. <b>2</b></figref>).</p>
+<p id="p-0051" num="0050">It is contemplated that the preferred opener assembly <b>12</b> may be associated with a single time-of-flight sensor <b>14</b>, which may be located at one of the illustrated positions, or at another position relative to the opener frame <b>20</b>. However, for at least some aspects of the present invention, the opener assembly <b>12</b> may have multiple sensors <b>14</b> supported relative to the opener frame <b>20</b> for obtaining measurements of the furrow, seed, etc. Multiple sensors <b>14</b> may be located at respective ones of the illustrated positions or other positions relative to the opener frame <b>20</b>. It will be understood that the orientation of each sensor <b>14</b> may differ among the various sensor positions, e.g., to optimize monitoring of the furrow and/or seed.</p>
+<p id="p-0052" num="0051">Each time-of-flight sensor <b>14</b> is preferably configured to obtain information indicative of one or more furrow parameters of the furrow F. In addition, each time-of-flight sensor <b>14</b> is operable to obtain information indicative of one or more seed parameters of seed S deposited into the furrow F, as will be explained. Within the scope of the present invention, one or more sensors <b>14</b> may be oriented to look rearwardly toward the rear of the furrow opening where the furrow is closed over the seed S, and such a rearward view is illustrated in <figref idref="DRAWINGS">FIG. <b>2</b>A</figref>. This rearward orientation of the sensor <b>14</b> permits the sensor <b>14</b> to see the seed S as it is covered with soil and to accurately determine the seed depth within the furrow F below the finished surface grade.</p>
+<p id="p-0053" num="0052">In preferred embodiments of the present invention, the time-of-flight sensor <b>14</b> may comprise a time-of-flight camera. The time-of-flight camera may preferably use monochromatic illumination and/or multi-wavelength illumination. The time-of-flight camera may preferably operate in the UV spectrum, the infrared spectrum, and/or in the visible spectrum. A preferred camera may use LED light sources and/or LASER light sources. A preferred camera may include photo-detection elements.</p>
+<p id="p-0054" num="0053">Embodiments of the present invention may, additionally or alternatively, have time-of-flight sensors <b>14</b> that include a sensor comprising an array of sensing pixels to determine the location of objects in 3D space, such as a time-of-flight camera, LiDAR sensors, radar sensors, ultrasonic sensors, and/or sonar sensors. Each time-of-flight sensor <b>14</b> is configured to generate time-of-flight images of the furrow F and of the seeds S deposited in the furrow F. Each time-of-flight sensor <b>14</b> is further configured to monitor positions of non-seed objects, which may include fertilizer pellets, pesticide pellets, or nutrient pellets.</p>
+<p id="p-0055" num="0054">One or more of the time-of-flight sensors <b>14</b> may also include or be associated with an RBG camera configured to obtain RGB images of the seeds and/or of the furrow.</p>
+<p id="p-0056" num="0055">Seed objects may be located in camera images using: (i) human crafted, traditional machine vision algorithms, and (ii) deep-learning, neural network methods of computer-optimized algorithms for object detection. These algorithms are configured to be processed by the controller <b>16</b>, which may include an electronic control unit (ECU) computer, as described below.</p>
+<p id="p-0057" num="0056">In embodiments of the present invention, the time-of-flight sensor <b>14</b> provides a depth camera to determine object location and distance relative to other objects. Object location and distance data from the sensor <b>14</b> can be used to build a matrix of depth values corresponding to pixels on the camera array (which is generally known as a depth map). Combining depth cameras with object detection means that the object can be located and measured, providing the parameters shown in <figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref>. Applications include seed counting, seed location measurements during planting process, seed velocity, and impact at soil (e.g., to determine whether the seed bounces and/or lands at a desired location). Furrow depth, width, and angle are all configured to be measured throughout the planting process.</p>
+<p id="p-0058" num="0057">Embodiments of the present invention may utilize near-infrared depth mapping based on time-of-flight to generate feedback for seed planting. The depth maps may be overlaid on RGB camera images to distinguish color and provide more data for improving accuracy. Besides time-of-flight, depth maps can also be generated using stereoscopic images (dual cameras) or structured light can achieve similar results, but time-of-flight may be optimal for the present invention's use cases given the state of current depth camera technology.</p>
+<p id="p-0059" num="0058">Time-of-flight (e.g., LiDAR) ranging technology can be used to gather the spatial data on seeds S during the planting process. The principles of time-of-flight imaging may use either monochromatic or multi-wavelength artificial illumination in the UV through the infrared (IR) range. LASER illumination and LED illumination comprise preferred light sources for depth measurements, and may be used with passive photo-detection sensors. Distances of light-reflective surfaces can be determined by measuring the time between the illuminated source turning on and the delay before reflected light returns to photo-detection sensors, using the speed of light as a fixed reference.</p>
+<p id="p-0060" num="0059">For the depicted sensors <b>14</b> and other sensors associated with the present invention, it will be appreciated that dust, particles, and other contaminants may interfere with sensor operation. For instance, foreign particulate matter may come to rest on a camera lens or hover adjacent the lens. It is within the ambit of the present invention for the implement to be provided with a powered pneumatic device operable to clear particulate from the camera lens by directing an airflow at or adjacent the lens.</p>
+<heading id="h-0010" level="1">User Interface and Parameters</heading>
+<p id="p-0061" num="0060">Data obtained from the sensors <b>14</b> may be used to generate and display one or more furrow parameters. The furrow parameters preferably include one or more of a furrow width, a furrow depth, and/or a furrow quality. The furrow quality may include one or more of the following parameters: furrow angle of a furrow sidewall, furrow shape, and/or furrow collapse (to indicate whether at least part of a furrow sidewall has collapsed).</p>
+<p id="p-0062" num="0061">The seeding implement <b>10</b> also preferably includes a user interface <b>40</b> operably coupled to the controller <b>16</b> and configured to display one or more furrow parameters to an operator of the seeding implement (see <figref idref="DRAWINGS">FIGS. <b>1</b>, <b>5</b> and <b>6</b></figref>). As will be discussed, an alert may be displayed to the operator (e.g., via the user interface <b>40</b>) if a furrow parameter exceeds a corresponding target parameter value or range.</p>
+<p id="p-0063" num="0062">The user interface <b>40</b> preferably includes a graphical display element <b>42</b>, a profile shape display element <b>44</b>, and a data display element <b>46</b>. The graphical display element <b>42</b> is configured to provide a graphical depiction of the measured furrow width. In particular, the measured furrow width is depicted by furrow edge line indicia <b>48</b>, furrow width line indicia <b>50</b>, and furrow width data indicia <b>52</b>. The graphical display element <b>42</b> is also configured to provide a graphical depiction of the measured furrow depth. Specifically, the measured furrow depth is depicted by furrow bottom line indicia <b>54</b> and furrow depth data indicia <b>56</b>.</p>
+<p id="p-0064" num="0063">The graphical display element <b>42</b> is also preferably configured to display camera image indicia <b>58</b> (shown schematically) depicting an image of the furrow, seed, etc. In the depicted embodiment, the graphical display element <b>42</b> is configured to overlay the indicia <b>48</b>,<b>50</b>,<b>52</b>,<b>54</b>,<b>56</b> on the camera image indicia <b>58</b>. Preferably, the indicia <b>48</b>,<b>50</b>,<b>52</b>,<b>54</b>,<b>56</b> are configured to be overlaid in association with corresponding features of the furrow in the camera image indicia <b>58</b>. For instance, the furrow edge line indicia <b>48</b> are preferably overlaid on or adjacent to corresponding furrow edges depicted in the camera image indicia <b>58</b>.</p>
+<p id="p-0065" num="0064">The profile shape display element <b>44</b> is configured to provide a graphical depiction of the measured furrow profile, including the furrow sidewalls and the furrow angle. Preferably, the furrow profile is depicted by profile indicia <b>60</b>. The data display element <b>46</b> is configured to provide a list of measured data and includes data label indicia <b>62</b> and data indicia <b>64</b>. The data indicia <b>64</b> preferably presents sensor data associated with sensor measurements.</p>
+<p id="p-0066" num="0065">As will be described in more detail below, it is within the scope of the present invention for the controller <b>16</b> and user interface <b>40</b> to be provided as part of a computing device of the implement <b>10</b>. All or some components of the computing device may be located in the cab of the towing vehicle or otherwise associated with the towing vehicle.</p>
+<p id="p-0067" num="0066">The preferred user interface <b>40</b> will have an electronic display, such as a cathode ray tube, liquid crystal display, plasma, or touch screen that is operable to display visual graphics, images, text, etc. In certain embodiments, the computer program associated with the user interface <b>40</b> facilitates interaction and communication through a graphical user interface (GUI) that is displayed via the electronic display. The GUI enables the user to interact with the electronic display by touching or pointing at display areas to provide information to the user interface <b>40</b>. In additional preferred embodiments, the computing device may also include an optical device such as a digital camera, video camera, optical scanner, or the like, such that the computing device can capture, store, and transmit digital images and/or videos.</p>
+<p id="p-0068" num="0067">It is within the scope of the present invention for the implement <b>10</b> to enable verification of furrow depth, furrow width, and/or furrow quality. In particular, the controller <b>16</b> is preferably operable to determine if the width of the actual furrow formed by the implement <b>10</b> matches a target value of furrow width or falls within a target range of furrow width. For instance, the operator may be alerted (e.g., via the user interface <b>40</b>) if the measured furrow width is too wide compared to the desired furrow width (see <figref idref="DRAWINGS">FIG. <b>6</b></figref>) or too narrow.</p>
+<p id="p-0069" num="0068">Similarly, the controller <b>16</b> is preferably operable to determine if the depth of the actual furrow formed by the implement <b>10</b> matches a target value of furrow depth or falls within a target range of furrow depth. The operator may also be alerted (e.g., via the user interface <b>40</b>) if the measured furrow depth is too deep or too shallow compared to the desired furrow depth.</p>
+<p id="p-0070" num="0069">Yet further, the controller <b>16</b> is preferably operable to identify the profile shape of the actual furrow and determine if the actual furrow formed by the implement <b>10</b> has a furrow sidewall that is collapsing. The operator may be alerted (e.g., via the user interface <b>40</b>) if the measured furrow is determined to be collapsing before the closing wheels arrive. As shown in <figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref>, the shape or profile of the furrow can be measured and displayed as a cross-section in the user interface <b>40</b> with the furrow profile indicia <b>60</b>.</p>
+<p id="p-0071" num="0070">The described alerts are preferably provided to the operator via the user interface <b>40</b> so that the operator may take action (e.g., by making adjustments to the implement <b>10</b>) to facilitate continued implement operation or to halt implement operation. However, it will also be understood that the controller <b>16</b> may be configured to automatically control the seeding implement <b>10</b> and take action to facilitate continued implement operation or to halt implement operation without operator intervention.</p>
+<p id="p-0072" num="0071">Embodiments of the preferred implement <b>10</b> may be configured to provide the measurements and monitoring of the actual furrow dimensions throughout the planting process. Furthermore, the implement <b>10</b> may be operably associated with an autonomous drive system (of the implement or towing vehicle) to adjust the implement <b>10</b> if the furrow depth does not match the intended depth setting. Furrow profiles can be monitored, so that if the furrow collapses or is too wide, the drive system or operator is alerted.</p>
+<p id="p-0073" num="0072">Embodiments of the present invention may also detect and measure soil condition parameters, such as the percentage of field residue and soil roughness. The operator may select a target level of soil roughness and residue reduction. Embodiments of the present invention may provide a means to measure and alert the operator if implement settings are meeting the intended targets.</p>
+<p id="p-0074" num="0073">Depth map data may be used by embodiments of the present invention for measuring soil condition metrics relevant to efficient crop planting by measuring changes affected by manual or automated adjustments to the planter equipment to improve and control planting with varied physical conditions. Soil condition parameters may be determined from camera images using: (i) human crafted, traditional machine vision algorithms, and (ii) deep-learning, neural network methods of computer-optimized algorithms for object detection. More details about the use of soil condition parameters are described in a subsequent embodiment.</p>
+<p id="p-0075" num="0074">The seeding implement <b>10</b> of the present invention may provide real-time data about seed parameters associated with the seeds S. In preferred embodiments, seed parameters may include data about locations of seeds S in the furrow. Such seed location parameters may include seed depth and lateral seed position. Seed location parameters may also include seed spacing, seed skips, and seed doubles. The controller <b>16</b> is preferably configured to use these seed location parameters to determine if an adjacent pair of seeds have been improperly deposited adjacent to one another.</p>
+<p id="p-0076" num="0075">Seed parameters may also include a number of seeds S deposited in the furrow, a velocity of seeds S deposited in the furrow, an impact position of seeds S deposited in the furrow, and a final resting position of seeds S deposited into the furrow. A seed skip is preferably identified when the measured seed spacing dimension between adjacent seeds is greater than a target seed spacing dimension. For instance, a seed skip may be identified if the measured seed spacing dimension is at least twice the target seed spacing dimension. A seed double is preferably identified when the measured seed spacing dimension between adjacent seeds is less than a target seed spacing dimension. For instance, a seed double may be identified if the measured seed spacing dimension is less than one half the target seed spacing dimension.</p>
+<p id="p-0077" num="0076">When seeds S enter the furrow, the seeding implement <b>10</b> is configured to detect seeds S and measure the depth relative to the top of the furrow, allowing planting depth to be quantified. Similarly, embodiments can measure the distance between seeds (spacing of seeds) and detect suboptimal planting performance of a row unit. The operator may be alerted by the user interface <b>40</b> (or another device) to parameters including: missed seeds (skips), added seeds (doubles), poor spacing, and/or seeds not detected in the furrow F. Similar measurements and operator alerts may also be provided for other seed-like objects, such as fertilizer pellets.</p>
+<p id="p-0078" num="0077">The described alerts are preferably provided to the operator via the user interface <b>40</b> so that the operator may take action (e.g., by making adjustments to the implement) to facilitate continued implement operation or to halt implement operation. However, it will also be understood that the controller <b>16</b> may be configured to automatically control the seeding implement <b>10</b> and take action to facilitate continued implement operation or to halt implement operation without operator intervention.</p>
+<p id="p-0079" num="0078">In the user interface <b>40</b>, the graphical display element <b>42</b> is configured to provide a graphical depiction of the detected seeds S by seed indicia <b>66</b> (see <figref idref="DRAWINGS">FIG. <b>6</b></figref>). In the depicted embodiment, the graphical display element <b>42</b> is configured to overlay the seed indicia <b>66</b> on the camera image indicia <b>58</b>. Preferably, the seed indicia <b>66</b> are configured to be overlaid on or adjacent to corresponding seeds S identified from the camera image indicia <b>58</b>. As depicted, the seed indicia <b>66</b> includes a box that is preferably positioned to surround the corresponding seed S.</p>
+<heading id="h-0011" level="1">Controller</heading>
+<p id="p-0080" num="0079">In the depicted seeding implement <b>10</b>, the controller <b>16</b> is also configured to process the information obtained by the time-of-flight sensors <b>14</b> to generate the one or more furrow parameters and/or seed parameters. For instance, the controller <b>16</b> is preferably configured to identify objects in the time-of-flight images received from the sensors. Objects may be identified in the time-of-flight images by various methods, such as machine vision algorithms or deep-learning, neural networks.</p>
+<p id="p-0081" num="0080">The preferred controller <b>16</b> may also be configured to generate depth maps based on the time-of-flight images. The depth maps may comprise a matrix of depth values corresponding to pixels of the time-of-flight images. Preferably, the matrix can be used to identify objects and distances between objects.</p>
+<p id="p-0082" num="0081">As described above, in preferred embodiments of the seeding implement <b>10</b>, the controller <b>16</b> is configured to display one or more furrow parameters and/or seed parameters to an operator of the seeding implement <b>10</b>. The controller <b>16</b> is also preferably configured to overlay time-of-flight image data onto other images, such as RGB images from an RGB camera. The controller <b>16</b> is also configured to generate an alert if the furrow parameters and/or seed parameters exceed target parameters.</p>
+<p id="p-0083" num="0082">Preferably, the controller <b>16</b> is also configured to automatically control operation of one or more components of the seeding implement <b>10</b> based on the one or more furrow parameters and/or seed parameters. In preferred embodiments, the controller <b>16</b> is configured to automatically control operation parameters of the seeding implement <b>10</b>, including a speed of the seeding implement, a seed distribution timing of the seeding implement, and a modification of the furrow forming process of the seeding implement. Modification of the furrow forming process may include adjustments associated with one or more furrow parameters, such as furrow width, furrow depth, and furrow quality. For instance, the furrow forming process may be modified by changing at least one of an opener down force, a seed firmer down pressure, and a row cleaner/residue mover position or force. Yet further, the controller may be configured to control at least one parameter associated with a furrow closing process. For instance, the furrow closing process may be modified by changing a closing wheel parameter, such as down force (which may affect the final depth of the seed, depending on how well the closing wheels bring soil back over the seed to close the furrow).</p>
+<p id="p-0084" num="0083">With the seeding implement <b>10</b> of the present invention, information on the planting process can be actively monitored as the process continues. A range of tolerances may be set such that the system informs the operator if the planting depth and spacing exceeds specifications at any point in the planting process. Video images may also be presented to the operator (e.g., showing seed placement during planting).</p>
+<p id="p-0085" num="0084">Embodiments of the invention may be used to provide feedback to an operator on monitor screens or other monitoring systems. The invention preferably provides feedback for autonomous drive systems, and such feedback data may provide positive verification of seed, furrow, and soil tillage parameters during planting without requiring operator monitoring or intervention.</p>
+<p id="p-0086" num="0085">Embodiments of the present invention may also be used for verification and feedback on planter downforce systems. For instance, the seeding implement <b>10</b> may be configured to include an active downforce system that generally maintains a consistent furrow depth.</p>
+<p id="p-0087" num="0086">Again, the controller <b>16</b> and user interface <b>40</b> may be provided as part of a computing device of the implement <b>10</b>. The computing device may include any device, component, or equipment with a processing element and associated memory elements. The processing element may implement operating systems, and may be capable of executing a computer program, which is also generally known as instructions, commands, software code, executables, applications (&#x201c;apps&#x201d;), and the like. The processing element may include processors, microprocessors, microcontrollers, field programmable gate arrays, and the like, or combinations thereof. The memory elements may be capable of storing or retaining the computer program and may also store data, typically binary data, including text, databases, graphics, audio, video, combinations thereof, and the like. The memory elements may also be known as a &#x201c;computer-readable storage medium&#x201d; and may include random access memory (RAM), read only memory (ROM), flash drive memory, floppy disks, hard disk drives, optical storage media such as compact discs (CDs or CDROMs), digital video disc (DVD), Blu-Ray&#x2122;, and the like, or combinations thereof.</p>
+<p id="p-0088" num="0087">The computing device may specifically include an electronic control unit (ECU) computer, mobile communication devices (including wireless devices), work stations, desktop computers, laptop computers, palmtop computers, tablet computers, portable digital assistants (PDA), smart phones, and the like, or combinations thereof. Various embodiments of the computing device may also include voice communication devices, such as cell phones or landline phones.</p>
+<p id="p-0089" num="0088">The user interface <b>40</b> of the computing device may enable one or more users to share information and commands with one or more other computing devices (such as the computing device of another implement). The user interface <b>40</b> may facilitate interaction through the GUI described above or may additionally comprise one or more functionable inputs such as buttons, keyboard, switches, scrolls wheels, voice recognition elements such as a microphone, pointing devices such as mice, touchpads, tracking balls, styluses. The user interface <b>40</b> may also include a speaker for providing audible instructions and feedback. Further, the user interface <b>40</b> may comprise wired or wireless data transfer elements, such as a communication component, removable memory, data transceivers, and/or transmitters, to enable the user and/or other computing devices to remotely interface with the computing device of the implement <b>10</b>.</p>
+<p id="p-0090" num="0089">It is also within the ambit of the present invention for the computing device of implement <b>10</b> to be associated with other computing devices and/or server devices via a communications network. For instance, the computing device of implement <b>10</b> may be operable to communicate with a computing device of one or more other implements via the communications network. The communications network may be wired or wireless and may include servers, routers, switches, wireless receivers and transmitters, and the like, as well as electrically conductive cables or optical cables. The communications network may also include local, metro, or wide area networks, as well as the Internet, or other cloud networks. Furthermore, the communications network may include cellular or mobile phone networks, as well as landline phone networks, public switched telephone networks, fiber optic networks, or the like.</p>
+<p id="p-0091" num="0090">Both the server devices and the computing devices may be connected to the communications network <b>306</b>. Server devices may communicate with other server devices or computing devices through the communications network. Likewise, computing devices may communicate with other computing devices or server devices through the communications network. The connection to the communications network may be wired or wireless. Thus, the server devices and the computing devices may include the appropriate components to establish a wired or a wireless connection.</p>
+<heading id="h-0012" level="1">Tillage Implement</heading>
+<p id="p-0092" num="0091">Turning to <figref idref="DRAWINGS">FIGS. <b>7</b>-<b>14</b></figref>, a tillage implement <b>100</b> of the present invention is depicted. The remaining description will focus primarily on the differences of this tillage implement embodiment from the preferred seeding implement embodiment described above.</p>
+<p id="p-0093" num="0092">The tillage implement <b>100</b> is constructed in accordance with a preferred embodiment of the present invention. The implement <b>100</b> may be pulled across a field (which may include one or more sections of ground G) to be tilled. The implement <b>100</b> may be pulled by a towing vehicle (not shown) such as a tractor. In various embodiments, the towing vehicle may include an operator-driven vehicle or an autonomous vehicle for towing the implement.</p>
+<p id="p-0094" num="0093">The tillage implement <b>100</b> preferably includes a main frame <b>102</b> supported above a ground surface by a plurality of wheels <b>104</b>, hydraulic actuators <b>106</b><i>a</i>-<i>d</i>, a leveling assembly <b>108</b>, front and rear groups <b>110</b>,<b>112</b> of coulter blades, height sensors <b>113</b>, residue sensors <b>114</b>, temperature sensors <b>115</b>, a controller <b>116</b>, and a hydraulic power system <b>118</b> (see <figref idref="DRAWINGS">FIGS. <b>7</b>, <b>13</b>, and <b>14</b></figref>)</p>
+<p id="p-0095" num="0094">As will be explained, sensors <b>113</b>,<b>114</b>,<b>115</b> are operably coupled to the controller <b>116</b> (see <figref idref="DRAWINGS">FIG. <b>14</b></figref>) and can be used on the tillage implement <b>100</b> to determine levelness and quality of finish behind the implement and/or implement tools, as well as determine proportion of plant residue left covering the soil. Such sensors may comprise time-of-flight cameras and/or other vision sensors (such as an RGB camera). For instance, a combination of time-of-flight and color sensors may be used to determine residue level. Furthermore, time-of-flight distance measurement may be combined with color data analysis to separate standing residue from ground level residue.</p>
+<p id="p-0096" num="0095">Similar to the previous embodiment, one or more time-of-flight sensors of the tillage implement <b>100</b> may comprise a time-of-flight camera. The time-of-flight camera may preferably use monochromatic illumination and/or multi-wavelength illumination. The time-of-flight camera may preferably operate in the UV spectrum, the infrared spectrum, and/or in the visible spectrum. A preferred camera may use LED light sources and/or LASER light sources. A preferred camera may include photo-detection elements.</p>
+<p id="p-0097" num="0096">Embodiments of the present invention may, additionally or alternatively, have time-of-flight sensors <b>14</b> that include LiDAR sensors, radar sensors, ultrasonic sensors, and/or sonar sensors.</p>
+<p id="p-0098" num="0097">In various embodiments within the ambit of the present invention, the sensors <b>113</b>,<b>114</b>,<b>115</b> may be used to obtain information and to provide feedback to the controller <b>116</b> for initiating adjustments of one or more of the following implement operating parameters: disk gang angle; inner wing weight transfer hydraulic pressure; outer wing weight transfer hydraulic pressure; primary lift cylinder height position; fore-aft leveling linkage hydraulic cylinder position; and rear attachment down/up force hydraulic cylinder pressure (and direction). One or more of such parameters may be adjusted to obtain or optimize user specified levels of residue, roughness (such as uniformity of soil clump/clod size), depth of tillage, surface soil moisture level after pass, uniformity of surface levelness.</p>
+<p id="p-0099" num="0098">Preferred implement embodiments may permit the operator to rank the priority of target parameters when multiple targets conflict or cannot be simultaneously met. Furthermore, the preferred implement may allow the operator to specify a limited range for target parameter adjustments when attempting to reach target results (for instance, the operator may specify a tillage depth range that must remain between about three inches (3&#x2033;) and about four inches (4&#x2033;).</p>
+<p id="p-0100" num="0099">As used herein to describe the implement, the term &#x201c;level&#x201d; is generally meant to refer to a uniform height of the implement main frame <b>102</b> with respect to the ground regardless of the terrain shape or slope. The term &#x201c;level&#x201d; may or may not correspond to a horizontal condition at a particular location.</p>
+<heading id="h-0013" level="1">Implement Frame</heading>
+<p id="p-0101" num="0100">Turning to <figref idref="DRAWINGS">FIGS. <b>8</b>-<b>10</b>B</figref>, the main frame <b>102</b> is configured to carry a plurality of ground-engaging tools, which will be described in more detail below. One or more of the wheels <b>104</b> may comprise depth-adjustment wheels configured to be adjustable up and down relative to main frame <b>102</b> by hydraulic actuators <b>106</b><i>a </i>for thereby controlling (i) the depth of soil penetration of the ground-engaging tools when the implement <b>100</b> is lowered to an operating configuration, and/or (ii) the height of the ground-engaging tools above the ground when the implement <b>100</b> is raised to a transport configuration.</p>
+<p id="p-0102" num="0101">The implement <b>100</b> may include a plurality of wheels <b>104</b> arranged generally in a laterally extending row. The number of wheels <b>104</b> may vary depending on the size of the implement <b>100</b> and/or on the requirements of the tilling operations. However, as shown in the figures, the implement <b>100</b> may have eight wheels <b>104</b>, including four interior wheels <b>104</b> and four outer wheels <b>104</b>. As noted previously, the wheels <b>104</b> are configured to support the main frame <b>102</b> above the ground G. The wheels <b>104</b> also preferably comprise depth-adjusting wheels that are actuatable by the hydraulic actuators <b>106</b><i>a </i>to transition the implement <b>100</b> between an operational configuration (e.g., <figref idref="DRAWINGS">FIGS. <b>9</b>A and <b>9</b>B</figref>), where at least some of the tools are engaged with the ground, and a transport configuration (not shown), where the tools are largely disengaged from the ground. Thus, the main frame <b>102</b> is generally positioned closer to the ground when in the operational configuration than in the transport configuration.</p>
+<p id="p-0103" num="0102">The hydraulic actuators <b>106</b><i>a </i>preferably comprise hydraulic cylinders. However, it is also within the scope of the present invention for the actuators <b>106</b><i>a </i>to include an alternative linear actuator or rotational actuator device.</p>
+<p id="p-0104" num="0103">In the depicted embodiment, the main frame <b>102</b> preferably includes a central section <b>120</b>, an inner left wing section <b>122</b><i>a, </i>an outer left wing section <b>122</b><i>b, </i>an inner right wing section <b>124</b><i>a, </i>and an outer right wing section <b>124</b><i>b, </i>as illustrated in <figref idref="DRAWINGS">FIGS. <b>12</b> and <b>13</b></figref>. The inner left and right wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>are configured to pivot upward/downward with respect to the central section <b>120</b>. The outer left and right wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>are configured to pivot upward/downward with respect to the inner left and right wing sections <b>122</b><i>a, </i><b>124</b><i>a. </i></p>
+<p id="p-0105" num="0104">When in the operational configuration, the wing sections <b>122</b><i>a, </i><b>122</b><i>b, </i><b>124</b><i>a, </i><b>124</b><i>b </i>will generally be orientated in parallel relationship with the central section <b>120</b> (i.e., orientated generally horizontally), as shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. However, it will be understood that the wing sections may be pivoted out of the parallel orientation relative to the central section while remaining in the operational configuration (e.g., to remain parallel with the soil surface when encountering uneven terrain such as a terrace on a hillside field).</p>
+<p id="p-0106" num="0105">In the transport configuration, the wing sections <b>122</b><i>a, </i><b>122</b><i>b</i>,<b>124</b><i>a, </i><b>124</b><i>b </i>may be rotated upward out of the parallel relationship with the central section <b>120</b>. For instance, the wing sections may be located above the central section and extend upwardly at an oblique or perpendicular orientation relative to the central section <b>120</b>.</p>
+<p id="p-0107" num="0106">Embodiments of the present invention may be used on frames other than the five-section frame discussed above. For example, embodiments of the present invention may be used with a three-section frame, which may include a central section, a left wing section, and a right wing section.</p>
+<heading id="h-0014" level="1">Implement Height and Actuation</heading>
+<p id="p-0108" num="0107">The height sensors <b>113</b> preferably comprise a time-of-flight sensor, which may include a time-of-flight camera. The height sensors <b>113</b><i>a,b </i>are preferably attached to the central section <b>120</b> along respective front and back ends <b>120</b><i>a,b</i>. The height sensors <b>113</b><i>c,d </i>are preferably attached to respective inner and outer wing sections <b>122</b><i>a</i>,<b>122</b><i>b</i>,<b>124</b><i>a</i>,<b>124</b><i>b. </i>Most preferably, each wing section <b>122</b><i>a, </i><b>122</b><i>b</i>,<b>124</b><i>a, </i><b>124</b><i>b </i>has a corresponding height sensor <b>113</b><i>c,d </i>attached adjacent an outboard end of the wing sections and along the front end <b>120</b><i>a. </i>As will be explained, the height sensors <b>113</b> are operable to facilitate leveling of the tillage implement <b>100</b>.</p>
+<p id="p-0109" num="0108">For height sensing, time-of-flight cameras (e.g., distance sensors) are operable to output signals (e.g., light waves) that travel to the ground surface below the sensors, reflect off the surface, and return to the camera. In the depicted embodiment, the central section <b>120</b> includes at least one sensor <b>113</b><i>a </i>along a front end <b>120</b><i>a </i>and at least one sensor <b>113</b><i>b </i>along a back end <b>120</b><i>b</i>. It will be understood that certain wavelengths may be better at penetrating dust in the air and plant residue materials while bouncing cleanly off soil. However, in at least some alternative embodiments, sound waves may be used in place of light waves.</p>
+<p id="p-0110" num="0109">In use, multiple surfaces associated with the ground G will reflect the signal due to uneven terrain, residue, and/or other objects along the ground G. Embodiments of the present invention may use an algorithm to determine from the range of reflected signals average height values from the ground to the sensors. Such calculations are preferably performed for each of the sensors (e.g., the front sensor and the rear sensor).</p>
+<p id="p-0111" num="0110">The actuators <b>106</b> preferably include inner hydraulic actuators <b>106</b><i>b </i>that are operably connected to the inner left and right wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>and the central section <b>120</b> (see <figref idref="DRAWINGS">FIGS. <b>7</b> and <b>8</b></figref>). The actuators <b>106</b><i>b </i>are configured to pivot the inner left and right wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>upward/downward relative to the central section <b>120</b>. Similarly, the outer hydraulic actuators <b>106</b><i>c </i>are operably connected to the outer left and right wing sections <b>122</b><i>b</i>, <b>124</b><i>b </i>and the inner wing sections <b>122</b><i>a, </i><b>122</b><i>b </i>(see <figref idref="DRAWINGS">FIGS. <b>7</b> and <b>8</b></figref>). The actuators <b>106</b><i>c </i>are configured to pivot the outer left and right wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>upward/downward relative to the inner wing sections <b>122</b><i>a, </i><b>122</b><i>b. </i></p>
+<p id="p-0112" num="0111">During operation, the actuators <b>106</b><i>b,c </i>are configured to apply a force outward and/or downward upon the corresponding wing sections <b>122</b><i>a</i>,<b>122</b><i>b</i>,<b>124</b><i>a, </i><b>124</b><i>b. </i>For instance, in the operational configuration, the actuators <b>106</b><i>b,c </i>are preferably configured to transfer at least a portion of weight of the central section <b>120</b> to or from the wing sections <b>122</b><i>a, </i><b>122</b><i>b</i>,<b>124</b><i>a, </i><b>124</b><i>b. </i>In preferred embodiments, the transfer of weight between the central section <b>120</b> and the wing sections <b>122</b><i>a, </i><b>122</b><i>b</i>,<b>124</b><i>a</i>,<b>124</b><i>b </i>may be configured to ensure that ground-engaging tools (such as the coulter blades <b>110</b>,<b>112</b>) of the tillage implement <b>100</b> operate at a uniform depth within the ground.</p>
+<p id="p-0113" num="0112">The hydraulic actuators <b>106</b><i>b, </i><b>106</b><i>c </i>preferably comprise hydraulic cylinders. However, it is also within the scope of the present invention for the actuators <b>106</b><i>b, </i><b>106</b><i>c </i>to include an alternative linear actuator or rotational actuator device.</p>
+<p id="p-0114" num="0113">The hydraulic actuators <b>106</b><i>a</i>-<i>d </i>are preferably operably coupled to and powered by the hydraulic power system <b>118</b>, which may be operated by the controller <b>116</b>. In the usual manner, the hydraulic power system <b>118</b> includes, among other things, a hydraulic pump (not shown) to selectively advance pressurized hydraulic fluid to and from the actuators <b>106</b><i>a</i>-<i>d. </i></p>
+<p id="p-0115" num="0114">In embodiments in which the actuators are hydraulic cylinders, weight transfer between the frame sections can be controlled by adjusting the hydraulic pressure applied to the cylinders, traditionally with a manually set hydraulic pressure reducing valve. In at least some embodiments, a predetermined pressure may be applied to the cylinders. For instance, a hydraulic pressure of 400 psi may be applied to the actuators <b>106</b><i>b </i>(to apply a corresponding force to the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a</i>), and a pressure of about half (e.g., about 200 psi) to the actuators <b>106</b><i>c </i>(to apply a corresponding force to the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b</i>).</p>
+<p id="p-0116" num="0115">The central section <b>120</b> and wing sections <b>122</b><i>a</i>,<b>122</b><i>b</i>,<b>124</b><i>a</i>,<b>124</b><i>b </i>preferably include respective height sensors <b>113</b><i>a,b,c,d </i>configured to obtain height information indicative of a height of the section above the ground (see <figref idref="DRAWINGS">FIGS. <b>9</b>A-<b>10</b>B</figref>). The controller <b>116</b> is configured to use data from the height sensors <b>113</b> to compare the heights of the inner and outer wing sections <b>122</b><i>a, </i><b>122</b><i>b, </i><b>124</b><i>a, </i><b>124</b><i>b </i>with the height of the central section <b>120</b>.</p>
+<p id="p-0117" num="0116">The controller <b>116</b> is configured to reduce pressure to the inner hydraulic actuators <b>106</b><i>b </i>when the heights of the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>are determined to be less than the height of the central section <b>120</b>. Similarly, the controller <b>116</b> is configured to increase pressure to the inner hydraulic actuators <b>106</b><i>b </i>when the heights of the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>are determined to be greater than the height of the central section <b>120</b>.</p>
+<p id="p-0118" num="0117">Furthermore, the controller <b>116</b> is configured to reduce pressure to the outer hydraulic actuators <b>106</b><i>c </i>when the heights of the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>are determined to be less than the height of the central section <b>120</b>. In at least some embodiments, the controller <b>116</b> may be configured to reduce weight transfer from the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>to the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>when the heights of the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>are determined to be less than the height of the central section <b>120</b>.</p>
+<p id="p-0119" num="0118">Similarly, the controller <b>116</b> is configured to increase pressure to the outer hydraulic actuators <b>106</b><i>c </i>when the heights of the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>are determined to be greater than the height of the central section <b>120</b>. In at least some embodiments, the controller <b>116</b> may increase weight transfer from the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>to the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>when the heights of the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>are determined to be greater than the height of the central section <b>120</b>. In this manner, the controller is configured to level frame sections of the tillage implement from side to side.</p>
+<heading id="h-0015" level="1">Implement Leveling</heading>
+<p id="p-0120" num="0119">The leveling assembly <b>108</b> is preferably configured to adjust a front-to-rear orientation of the central section <b>120</b>. The leveling assembly <b>108</b> includes a fore-and-aft extending linkage <b>130</b> with links <b>132</b> and a hydraulic actuator <b>106</b><i>d. </i>The actuator <b>106</b><i>d </i>is configured to drive the linkage <b>130</b> to shift the central section <b>120</b> so that the height of a front end <b>120</b><i>a </i>of the central section <b>120</b> is increased relative to the height of a back end <b>120</b><i>b </i>of the central section <b>120</b>. The actuator <b>106</b><i>d </i>is also configured to drive the linkage <b>130</b> to shift the central section <b>120</b> so that the height of the front end <b>120</b><i>a </i>of the central section <b>120</b> is decreased relative to the height of the back end <b>120</b><i>b </i>of the central section <b>120</b>.</p>
+<p id="p-0121" num="0120">The hydraulic actuator <b>106</b><i>d </i>preferably comprises a hydraulic cylinder and is operably coupled to the hydraulic power system <b>118</b>. However, it is also within the scope of the present invention for the actuator <b>106</b><i>d </i>to include an alternative linear actuator or rotational actuator device.</p>
+<p id="p-0122" num="0121">The controller <b>116</b> is configured to receive the height information from a front height sensor <b>113</b><i>a </i>and the height information from a rear height sensor <b>113</b><i>b </i>(see <figref idref="DRAWINGS">FIGS. <b>9</b>A-<b>10</b>B</figref>). The controller <b>116</b> is also operable to provide instructions to the leveling assembly <b>108</b> to adjust the front to rear orientation of the central section <b>120</b> based on the received height information.</p>
+<p id="p-0123" num="0122">In particular, the controller <b>116</b> is configured to compare the front height value from the front sensor <b>113</b><i>a </i>and the rear height value from the rear sensor <b>113</b><i>b </i>to determine an actual (i.e., measured) level value of the central section <b>120</b>. Preferably, the level value comprises a difference between the front and rear height values. However, the front-to-rear level value may be alternatively characterized (e.g., as an angular value).</p>
+<p id="p-0124" num="0123">The controller <b>116</b> is also preferably configured to receive a desired target level value and/or target level range. Furthermore, the controller <b>116</b> is operable to compare the actual level value with the target level value or target level range.</p>
+<p id="p-0125" num="0124">The implement <b>100</b> is preferably configured so that the target level value or range generally corresponds with the main frame <b>102</b> being generally parallel to the surface of the ground G along the fore-and-aft direction. However, it is also within the ambit of the present invention for the target level value or range to be associated with the main frame <b>102</b> in a non-parallel relationship with the ground G. For instance, the implement <b>100</b> may be operated so that the back end <b>120</b><i>b </i>is set deeper than the front end <b>120</b><i>a. </i>Conversely, the implement <b>100</b> may be operated so that the front end <b>120</b><i>a </i>is set deeper than the back end <b>120</b><i>b. </i>It will be appreciated that a non-parallel target level value may be preferable in order to optimize the completed tillage operation outcome. The non-parallel target level value may be determined based upon various factors, such as soil hardness, relative effect of front coulter gangs compared to rear coulter gangs, etc.</p>
+<p id="p-0126" num="0125">In use, an operation step of the implement <b>100</b> involves adjustment of the leveling assembly <b>108</b> to level the implement frame from front to back (referred to herein as &#x201c;Step 1&#x201d;). The height values for the front and rear sensors <b>113</b><i>a</i>,<b>113</b><i>b </i>are preferably compared with each other to determine the difference. If the difference is outside a target level range, the controller <b>116</b> will preferably send a signal to extend or retract the hydraulic actuator <b>106</b><i>d. </i></p>
+<p id="p-0127" num="0126">For instance, if the front end is too low relative to the back end, the controller <b>116</b> will provide a signal to extend the hydraulic actuator <b>106</b><i>d </i>to raise the front end and/or lower the rear end of the central section <b>120</b> until the two height values (as measured at the front sensor and the rear sensor) are within the target range of each other.</p>
+<p id="p-0128" num="0127">Alternatively, if the front end is too high relative to the back end, the controller <b>116</b> will provide a signal to retract the hydraulic actuator <b>106</b><i>d </i>to lower the front end and/or raise the rear end of the central section <b>120</b> until the two height values (as measured at the front sensor and the rear sensor) are within the target range of each other.</p>
+<p id="p-0129" num="0128">The controller <b>116</b> is also preferably configured to level frame sections of the tillage implement <b>100</b> from side to side. In particular, the controller <b>116</b> is configured to compare the front height value from the front sensor <b>113</b><i>a </i>of the central section <b>120</b> and the height values from the sensors <b>113</b><i>c,d </i>of the wing sections <b>122</b><i>a</i>,<b>122</b><i>b</i>,<b>124</b><i>a</i>,<b>124</b><i>b </i>to determine an actual (i.e., measured) side-to-side level value of the main frame <b>102</b>. Preferably, the level value comprises a difference between the section height values. However, the side-to-side level value may be alternatively characterized (e.g., as an angular value).</p>
+<p id="p-0130" num="0129">The controller <b>116</b> is also preferably configured to receive a design target side-to-side level value and/or target level range. Furthermore, the controller <b>116</b> is operable to compare the actual side-to-side level value with the target level value or target level range.</p>
+<p id="p-0131" num="0130">An operation step of the implement <b>100</b> involves adjustment of the inner weight transfer hydraulic pressure supplied to inner hydraulic actuators <b>106</b><i>b </i>to level the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>relative to the central section <b>120</b> (referred to herein as &#x201c;Step 2&#x201d;).</p>
+<p id="p-0132" num="0131">The inner hydraulic actuators <b>106</b><i>b </i>may be used in the field to apply force outwards and/or downwards upon the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>to transfer a portion of the weight of the central section out upon the inner wing sections and/or the outer wing sections. In embodiments in which the actuators <b>106</b><i>b </i>are hydraulic cylinders, the amount of force transferred between the frame sections can be defined by controlling the hydraulic pressure applied to the cylinders, traditionally with a manually set hydraulic pressure reducing valve.</p>
+<p id="p-0133" num="0132">Embodiments of the present invention start the control process with a generic standard pressure applied to the weight transfer system, typically 400 psi for the inner wing sections and half of that (e.g., 200 psi) to the outer wing sections. The objective of such a weight transfer is to transfer load off the central section and/or inner wing sections that are heavier, out onto the outer wing sections that are lighter so that all of the frame sections do an equivalent job and operate at uniform depth.</p>
+<p id="p-0134" num="0133">The height values for the sensors <b>113</b><i>a, </i><b>113</b><i>b</i>,<b>113</b><i>c </i>are preferably compared with each other to determine level differences between the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>and the central section <b>120</b>. If a side-to-side level difference is outside a target level range, the controller <b>116</b> will preferably send a signal to extend or retract the corresponding inner hydraulic actuator <b>106</b><i>b. </i></p>
+<p id="p-0135" num="0134">For instance, if an inner wing section <b>122</b><i>a, </i><b>124</b><i>a </i>is too low relative to the central section <b>120</b>, the controller <b>116</b> will provide a signal to retract the inner hydraulic actuator <b>106</b><i>b </i>to raise the inner wing section <b>122</b><i>a</i>,<b>124</b><i>a </i>until the height values measured by respective sensors <b>113</b><i>a</i>,<b>113</b><i>b</i>,<b>113</b><i>c </i>are within the target range of each other. In other words, the controller <b>116</b> is configured to reduce pressure to the inner hydraulic actuators <b>106</b><i>b </i>when the heights of the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>are determined to be less than the height of the central section <b>120</b>. For at least some aspects of the present invention, it may be possible to reduce the outward pressure of the hydraulic actuator to zero and instead apply an inward pressure to lift the wing if needed. For instance, such use may be suitable when the center section <b>120</b> is located on relatively hard soil (e.g., a relatively dry soil) and a wing section is located on relatively soft soil (e.g., a relatively sandy soil or wet soil).</p>
+<p id="p-0136" num="0135">Conversely, if an inner wing section <b>122</b><i>a</i>,<b>124</b><i>a </i>is too high relative to the central section <b>120</b>, the controller <b>116</b> will provide a signal to extend the inner wing actuator <b>106</b><i>b </i>to lower the inner wing section <b>122</b><i>a, </i><b>124</b><i>a </i>until the height values measured by respective sensors <b>113</b><i>a</i>,<b>113</b><i>b</i>,<b>113</b><i>c </i>are within the target range of each other. In other words, the controller <b>116</b> is configured to increase pressure to the inner hydraulic actuators <b>106</b><i>b </i>when the heights of the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>are determined to be greater than the height of the central section <b>120</b>.</p>
+<p id="p-0137" num="0136">For embodiments of the present invention, the average of height readings of the central section <b>120</b> (e.g., as obtained from the front sensor <b>113</b><i>a </i>and rear sensor <b>113</b><i>b </i>associated with the central section <b>120</b>) may be used as the target objective for the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a. </i>One of each of the same type of distance sensors may be mounted on the outboard end of each inner wing section. The average of these two wing sensor distances may be computed and compared to the central section height distance by the controller. If such distances are within target range, no adjustments are made. If the wing sensors <b>113</b><i>c </i>indicate the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>are too low compared to the center section <b>120</b>, then the pressure at the hydraulic actuators <b>106</b><i>b </i>may be reduced to remove weight transfer force. If the wing height is too high, the pressure may be increased to add weight transfer force. In the preferred embodiment, there may be no adjustment (raising or lowering) of the wheels that support the wings during this process, only the weight transfer force may be adjusted.</p>
+<p id="p-0138" num="0137">An operation step of the implement <b>100</b> involves adjustment of the outer weight transfer hydraulic pressure supplied to outer hydraulic actuators <b>106</b><i>c </i>to level the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>relative to the central section <b>120</b> (referred to herein as &#x201c;Step 3&#x201d;). The same process used to level the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>relative to the central section <b>120</b> in Step 2 above may be used to level the outer wing sections <b>122</b><i>b</i>,<b>124</b><i>b </i>to match the orientation of the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a. </i></p>
+<p id="p-0139" num="0138">The outer hydraulic actuators <b>106</b><i>c </i>may be used in the field to apply force outwards and/or downwards upon the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>to transfer a portion of the weight of the central section and/or inner wing sections out upon the inner wing sections and/or the outer wing sections. In embodiments in which the actuators <b>106</b><i>c </i>are hydraulic cylinders, the amount of force transferred between the frame sections can be defined by controlling the hydraulic pressure applied to the cylinders, traditionally with a manually set hydraulic pressure reducing valve.</p>
+<p id="p-0140" num="0139">The height values for the sensors <b>113</b><i>a, </i><b>113</b><i>d </i>are preferably compared with each other to determine level differences between the outer wing sections <b>122</b><i>b</i>,<b>124</b><i>b </i>and the central section <b>120</b>. If a side-to-side level difference is outside a target level range, the controller <b>116</b> will preferably send a signal to extend or retract the corresponding outer hydraulic actuator <b>106</b><i>c. </i></p>
+<p id="p-0141" num="0140">For instance, if an outer wing section <b>122</b><i>b</i>,<b>124</b><i>b </i>is too low relative to the central section <b>120</b>, the controller <b>116</b> will provide a signal to retract the outer hydraulic actuator <b>106</b><i>c </i>to raise the outer wing section <b>122</b><i>b, </i><b>124</b><i>b </i>until the height values measured by respective sensors <b>113</b><i>a, </i><b>113</b><i>d </i>are within the target range of each other. In other words, the controller <b>116</b> is configured to reduce pressure to the outer hydraulic actuators <b>106</b><i>c </i>when the heights of the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>are determined to be less than the height of the central section <b>120</b>. In at least some embodiments, the controller <b>116</b> may be configured to reduce weight transfer from the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>to the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>when the heights of the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>are determined to be less than the height of the central section <b>120</b>.</p>
+<p id="p-0142" num="0141">Conversely, if an outer wing section <b>122</b><i>b</i>,<b>124</b><i>b </i>is too high relative to the central section <b>120</b>, the controller <b>116</b> will provide a signal to extend the outer hydraulic actuator <b>106</b><i>c </i>to lower the outer wing section <b>122</b><i>b</i>,<b>124</b><i>b </i>until the height values measured by respective sensors <b>113</b><i>a, </i><b>113</b><i>d </i>are within the target range of each other. In other words, the controller <b>116</b> is configured to increase pressure to the outer hydraulic actuators <b>106</b><i>c </i>when the heights of the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>are determined to be greater than the height of the central section <b>120</b>. In at least some embodiments, the controller <b>116</b> may increase weight transfer from the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a </i>to the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>when the heights of the outer wing sections <b>122</b><i>b, </i><b>124</b><i>b </i>are determined to be greater than the height of the central section <b>120</b>.</p>
+<heading id="h-0016" level="1">Ground-Engaging Tools</heading>
+<p id="p-0143" num="0142">Turning to the soil-engaging tools, the implement <b>100</b> may include, as illustrated in <figref idref="DRAWINGS">FIGS. <b>7</b>, <b>10</b>A, and <b>10</b>B</figref>, front and rear groups <b>110</b>,<b>112</b> of coulter blades. The front group <b>110</b> of coulter blades are carried by and extend down from the main frame <b>102</b>. The front group <b>110</b> of coulter blades may extend generally laterally across main frame <b>102</b> of the implement <b>100</b>. In some embodiments, the front group <b>110</b> of coulter blades may be configured as a plurality of individual gangs <b>110</b><i>a </i>of coulter blades. For example, the implement <b>100</b> may include a front group <b>110</b> of coulter blades that comprises six individual gangs <b>110</b><i>a </i>of coulter blades, as perhaps best shown in <figref idref="DRAWINGS">FIG. <b>10</b>A</figref>. Each gang <b>110</b><i>a </i>may comprise eight individual coulter blades. As used herein, the term &#x201c;gang&#x201d; refers to a group of ground-engaging tools that are linked together so as to be actuated as a unit.</p>
+<p id="p-0144" num="0143">In addition, the implement <b>100</b> may include a rear group <b>112</b> of coulter blades carried by and extending down from the main frame <b>102</b>. The rear group <b>112</b> of coulter blades may extend generally laterally across the main frame <b>102</b> of the implement <b>100</b>. The rear group <b>112</b> of coulter blades may be configured as a plurality of gangs <b>112</b><i>a </i>of coulter blades. For example, the implement <b>100</b> may include a rear group <b>112</b> of coulter blades that comprises six individual gangs <b>112</b><i>a </i>of coulter blades. Each gang may comprise eight individual coulter blades.</p>
+<p id="p-0145" num="0144">The coulter blades may be configured as disc blades <b>140</b> (see <figref idref="DRAWINGS">FIGS. <b>9</b>A and <b>9</b>B</figref>), which may take any of various forms. For instance, the coulter blades <b>140</b> may include concave discs. In some embodiments, the disc blades may each comprise a plurality of waves or fluted sections on circumferential portions of the disc blades.</p>
+<p id="p-0146" num="0145">Again, the front and rear groups <b>110</b>, <b>112</b> of coulter blades each include six gangs. Alternative implement embodiments may include any number of gangs, with each gang including any number of coulter blades. For example, in some embodiments, the implement may include between six to fourteen coulter blades on each gang. Each gang of coulter blades may comprise a support frame that is connected to and extends down from the main frame <b>12</b> and that rotatably supports its associated coulter blades such that each of the coulter blades can rotate about an individual rotational axis. As perhaps best shown in <figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref>, each of the gangs of coulter blades may be rotatable by a gang angle about a vertical, upright pivot axis <b>32</b>. The pivot axis <b>32</b> of each gang of coulter blades may represent a connection point between the gang and the main frame <b>12</b>.</p>
+<p id="p-0147" num="0146">The gangs <b>110</b><i>a</i>,<b>112</b><i>a </i>of coulter blades may have their gang angles adjusted via an actuator <b>142</b>, such as a hydraulic cylinder, that extends between the main frame <b>102</b> and the gangs <b>110</b><i>a, </i><b>112</b><i>a </i>(see <figref idref="DRAWINGS">FIGS. <b>10</b>A and <b>10</b>B</figref>). In operation, the gangs <b>110</b><i>a, </i><b>112</b><i>a </i>of coulter blades may be oriented in a generally laterally-extending position (e.g., <figref idref="DRAWINGS">FIG. <b>10</b>A</figref>), such that the gangs extend generally laterally across the main frame <b>102</b> of the implement <b>100</b> (i.e., the gang angle formed between each gang and the lateral direction is equal to zero). In such an orientation, the coulter blades of each gang are disposed straight ahead, generally in parallel alignment with the travel direction of the implement <b>100</b>.</p>
+<p id="p-0148" num="0147">In contrast, the gangs <b>110</b><i>a, </i><b>112</b><i>a </i>of coulter blades can be shifted or rotated to an oblique position (e.g., <figref idref="DRAWINGS">FIG. <b>10</b>B</figref>) in which the gangs <b>110</b><i>a</i>,<b>112</b><i>a </i>are orientated at an angle with respect to the lateral direction of the implement <b>100</b> (i.e., the gang angle formed between each gang and the lateral direction is greater than zero). In such an orientation, the coulter blades of each gang <b>110</b><i>a, </i><b>112</b><i>a </i>are disposed at an oblique angle with respect to the travel direction of the implement <b>100</b>. The term &#x201c;gang angle&#x201d; generally refers to the angle formed between a gang and a lateral direction with respect to the implement <b>100</b>. However, the gang angle may approximate the angle formed between the individual coulter blades of the gang and the travel direction of the implement <b>100</b> (i.e., the longitudinal direction).</p>
+<p id="p-0149" num="0148">In view of the above, each of the gangs of the front and rear groups <b>20</b>, <b>22</b> of coulter blades can be shifted and/or rotated (e.g., via the actuators <b>142</b>) to any orientation between a minimum gang angle and a maximum gang angle.</p>
+<p id="p-0150" num="0149">More details about adjustment of gang angle are disclosed in U.S. application Ser. No. 15/843,456, entitled TILLAGE IMPLEMENT, which is hereby incorporated in its entirety by reference herein.</p>
+<p id="p-0151" num="0150">The implement <b>100</b> may additionally comprise ground-engaging tools in the form of gangs <b>144</b> of harrow assemblies and gangs <b>146</b> of finishing reels carried by and extending down from the main frame <b>12</b> (see <figref idref="DRAWINGS">FIGS. <b>9</b>A-<b>10</b>B</figref>). The gangs of harrow assemblies <b>26</b> may extend generally laterally across the implement <b>100</b>. Similarly, the gangs <b>146</b> of finishing reels may extend generally laterally across the main frame <b>102</b> of the implement <b>100</b>.</p>
+<p id="p-0152" num="0151">As depicted, the finishing reels may be supported by a subframe <b>148</b> (see <figref idref="DRAWINGS">FIGS. <b>7</b> and <b>9</b>B</figref>) that extends rearward from the main frame <b>102</b>. In certain embodiments, the subframe <b>148</b> may form part of the main frame <b>102</b>. More details about the preferred harrow assemblies and finishing reels are disclosed in above-incorporated '456 application.</p>
+<p id="p-0153" num="0152">An operation step of the implement <b>100</b> involves adjustment of the overall height of the tillage implement frame relative to ground G to achieve a target depth of the ground-engaging tools (referred to herein as &#x201c;Step 4&#x201d;). As described with Steps 1-3 above, embodiments are configured to have the entire tillage implement frame <b>102</b> operating at uniform height fore/aft and left/right. Thereafter, embodiments may further allow for the tillage implement height to be fine-tuned/adjusted to precisely control the depth at which the ground-engaging tools are engaged with the soil.</p>
+<p id="p-0154" num="0153">The entire tillage implement <b>100</b> operates with a common lift/lower hydraulic circuit that regulates overall frame height. In particular, the average frame height of all the sensors <b>113</b> positioned on the tillage implement <b>100</b> (e.g., front and rear sensors <b>113</b><i>a,b </i>on the central section <b>120</b> and sensors <b>113</b><i>c,d </i>on each of the wing sections <b>122</b><i>a, </i><b>122</b><i>b</i>,<b>124</b><i>a</i>,<b>124</b><i>b</i>) after leveling (e.g., process Steps 1-3 discussed above) may be compared to a target frame height. If the obtained measurements are within range of the target frame height, no adjustments are made. If the frame <b>102</b> is too high, the common lift/lower circuit is adjusted by the controller <b>116</b> and hydraulic valves to lower the frame height through the multiple hydraulic actuators <b>106</b><i>a </i>in the circuit. If the dimension is too low, the controller <b>116</b> and valves operate to raise the frame height through the multiple hydraulic actuators <b>106</b><i>a </i>in the circuit. Such hydraulic actuators <b>106</b><i>a </i>may include actuators associated with depth-adjustable wheels <b>104</b> (e.g., gauge wheels) configured to raise and lower the wheels <b>104</b> with respect to the frame <b>102</b> of the tillage implement so as to raise and lower the frame <b>102</b> with respect to the ground.</p>
+<heading id="h-0017" level="1">Ground Residue and Temperature Sensing</heading>
+<p id="p-0155" num="0154">Again, the sensors <b>113</b>,<b>114</b>,<b>115</b> can be used to determine levelness and quality of finish behind the implement and/or implement tools, as well as determine proportion of plant residue left covering the soil. Such sensors may comprise time-of-flight cameras or other vison-related sensors. The sensors <b>113</b>,<b>114</b>,<b>115</b> are coupled to the controller <b>116</b> (see <figref idref="DRAWINGS">FIG. <b>14</b></figref>) and may be used to obtain information and to provide feedback to the controller <b>116</b> for initiating adjustments of one or more of the following implement operating parameters: disk gang angle; inner wing weight transfer hydraulic pressure; outer wing weight transfer hydraulic pressure; primary lift cylinder height position; fore-aft levelling linkage hydraulic cylinder position; and rear attachment down/up force hydraulic cylinder pressure (and direction).</p>
+<p id="p-0156" num="0155">Turning to <figref idref="DRAWINGS">FIGS. <b>9</b>B-<b>10</b>B and <b>12</b></figref>, the residue sensors <b>114</b> are generally configured and positioned as ground residue sensors. In preferred embodiments of the present invention, one or more of the residue sensors <b>114</b> may comprise a time-of-flight camera. The time-of-flight camera may use monochromatic illumination and/or multi-wavelength illumination. The time-of-flight camera may operate in the UV spectrum, the infrared spectrum, and/or in the visible spectrum. A preferred camera may use LED light sources and/or LASER light sources. A preferred camera may also include photo-detection elements.</p>
+<p id="p-0157" num="0156">Embodiments of the present invention may, additionally or alternatively, have time-of-flight sensors <b>114</b> that include LiDAR sensors, radar sensors, ultrasonic sensors, and/or sonar sensors.</p>
+<p id="p-0158" num="0157">The sensors <b>114</b> are preferably configured to identify actual residue coverage of plant material on the soil. In the depicted embodiment, the sensors <b>114</b> are generally located along the back end <b>120</b><i>b </i>and preferably comprise one or more rearward-facing sensors to capture images of the ground as tilling operations are performed. Although the sensors <b>114</b> are depicted as being located forwardly of the finishing reels, preferred embodiments of the invention may have the sensors located directly above or rearwardly of the finishing reels so that the sensors <b>114</b> may image a part of the field where the implement has completed its pass. Furthermore, it is within the scope of the present invention for the sensors <b>114</b> to be located at other positions relative to the main frame <b>102</b>.</p>
+<p id="p-0159" num="0158">The sensors (e.g., cameras) are configured to take visual images showing different colors of the plant residue and/or soil. In some embodiments, the sensors may be in the form of time-of-flight cameras configured to determine distance to ground.</p>
+<p id="p-0160" num="0159">The pixels from the time-of-flight images may be analyzed (e.g., reviewed based on color) by the controller <b>116</b>. Pixels showing a range of distance and color appropriate for soil can be identified as soil. Pixels showing a different range of color or range of distance not appropriate for soil can be identified as residue.</p>
+<p id="p-0161" num="0160">As noted above, soil condition parameters may be determined from camera images using: (i) human crafted, traditional machine vision algorithms, and (ii) deep-learning, neural network methods of computer-optimized algorithms for object detection.</p>
+<p id="p-0162" num="0161">The ratio of residue pixels vs soil pixels can be used (e.g., analyzed by the controller <b>116</b>) to determine the percent of residue coverage on the ground (i.e., the percent of ground coverage). The controller <b>116</b> may then be configured to adjust gang angle and depth settings of ground-engaging tools (such as the gangs of coulter blades) to attempt to achieve the target proportion of residue coverage (within the limits of machine capability and existing residue levels).</p>
+<p id="p-0163" num="0162">Image capturing, image processing, and tool control/adjustment may be performed by the controller <b>116</b> several times each minute to facilitate average processing/measurements and control for improved accuracy. Such operation may permit adjustment of the tillage implement <b>100</b> in response to changing soil and residue conditions in different regions of the field.</p>
+<p id="p-0164" num="0163">Turning to <figref idref="DRAWINGS">FIGS. <b>9</b>B-<b>10</b>B and <b>12</b></figref>, for quality of work analysis, embodiments of the present invention may also include temperature sensors <b>115</b><i>a,b </i>to measure temperature of the ground G (e.g., by taking a temperature image of the soil).</p>
+<p id="p-0165" num="0164">The temperature sensors <b>115</b><i>a </i>are configured to measure temperature of the ground (e.g., by taking a temperature image of the soil) along the front end <b>120</b><i>a </i>of the implement <b>100</b>. One or more sensors <b>115</b><i>a </i>may include a thermal camera (such as an infrared (IR) camera) positioned along the front of the implement <b>100</b> and are preferably forward facing. The sensors <b>115</b><i>a </i>are preferably forward-looking and configured to collect a temperature image of the ground G before the tillage implement <b>100</b> makes its pass.</p>
+<p id="p-0166" num="0165">Temperature sensors <b>115</b><i>b </i>may be located along the back end <b>120</b><i>b </i>of the implement <b>100</b>. One or more sensors <b>115</b><i>b </i>may include a thermal camera (such as an infrared (IR) camera) positioned along the rear of the implement <b>100</b> and are preferably rearward facing.</p>
+<p id="p-0167" num="0166">Because residue generally acts as an insulator, the soil temperature with a residue covering is generally less than the soil temperature of bare ground. This temperature difference can be used to estimate surface residue level. It will be appreciated by those of ordinary skill in the art that soil temperature varies with depth, such that the soil is cooler (spring) or warmer (fall) 2 inches deep vs on the surface. Such a temperature variance permits an evaluation of how well the soil is tilled and mixed.</p>
+<p id="p-0168" num="0167">After the tillage pass, it is preferable to observe a uniform, blended temperature image with many small dots of different temperatures finely mixed. If data from the sensors <b>115</b><i>b </i>illustrates clusters of similar temperatures bunched together in large blobs or groups, it may be inferred that tilling operations are leaving clods or chunks of soil that did not break apart. The controller <b>116</b> is preferably configured to analyze thermal images from the sensors <b>115</b><i>b </i>to identify such clusters or to otherwise determine a tillage quality of ground after the tillage implement has made a pass over the ground.</p>
+<p id="p-0169" num="0168">Embodiments of the invention may use the sensors <b>115</b><i>b </i>to determine a tillage depth after the tillage implement <b>100</b> has made a pass over the ground. In particular, the sensors <b>115</b><i>b </i>may be used to estimate how deep the implement is tilling by measuring soil temperature and using soil temperature data as a calibration factor. The higher temperature gradient that shows up in the image, the deeper the implement is tilling. If reference temps for specific depths are available, embodiments can calibrate to that reference temperature and use that as a true depth measurement when compared to our tilled soil image. The controller <b>116</b> is preferably configured to analyze thermal images from the sensors <b>115</b><i>b </i>to identify temperature gradients in the image and thereby determine a tillage depth after the tillage implement <b>100</b> has made a pass over the ground.</p>
+<p id="p-0170" num="0169">It will be understood that temperature sensors, such as sensors <b>115</b><i>b, </i>may require calibration. Constant calibration of a thermal image sensor may be accomplished by providing a second sensor to obtain temperature readings at a specified depth.</p>
+<p id="p-0171" num="0170">An operation step of the implement <b>100</b> involves adjustment of the depth to achieve target residue coverage, governed by operator set limits and machine capability (referred to herein as &#x201c;Step 5&#x201d;). As noted, embodiments may include rear facing cameras configured to capture images of the soil after a pass of the tillage implement <b>100</b> over a section of soil is complete. These images can be processed to determine the actual residue coverage on the soil. This actual residue value can be compared to a target residue value (e.g., such as may be set the operator). If the actual value is too high, the control system can adjust the overall height of the tillage implement to the ground (as described in Step 4 above) to increase the operating depth of the ground-engaging tools to work deeper into the soil to cover more residue. In contrast, if the actual residue value is too low, the control system may adjust the overall height (again, as described in Step 4 above) to decrease the operating depth, positioning the ground-engaging tools to a lesser extent into the soil. This adjustment may be restricted by operator choice as they will be able to specify a weighting preference of uniform depth over all of the field versus target residue coverage over all of the field. This is more likely to be the case in the spring when preparing the field ahead of planting, where a uniform depth ahead of the planter will take priority over a uniform residue level. The reverse is more likely in the fall when getting a uniform residue level can be the higher priority.</p>
+<p id="p-0172" num="0171">An operation step of the implement <b>100</b> involves adjustment of gang angle to achieve a percent residue coverage target, governed by operator set limits and machine capability (referred to herein as &#x201c;Step 6&#x201d;). The same principles as Step 5 may be applied with respect to the controller <b>116</b> adjusting the gang angle of the ground-engaging tools. The difference is that, rather than adjust the implement height embodiments, the coulter/disc gang angles are adjusted. The gangs may be adjusted to increase the gang angle, in order to bury more residue, or decrease the gang angle, to bury less residue.</p>
+<p id="p-0173" num="0172">An operation step of the implement <b>100</b> involves readjustment of the machine level as needed for depth or gang angle adjustments, which may include fore-and-aft leveling and/or side-to-side leveling (this readjustment step is referred to herein as &#x201c;Step 7&#x201d;). When the implement depth or the gang angle are adjusted, such changes may affect the machine leveling behavior. As the gang angle is increased or decreased, the front coulter blades do more or less work relative to the rear coulter blades and have more or less tendency to go into the ground G. The resistance to going into the ground G seen by the wing sections can also increase or decrease in total force required. These effects may require a readjustment of machine level in the fore-and-aft direction (see Step 1 above) and/or in a side-to-side direction (see Steps 2 and 3 above) after changes to depth or gang angle. Subsequent to leveling, readjustment may also require adjustment of the overall height of the tillage implement frame <b>102</b> (see Step 4), adjustment of depth (see Step 5), and/or adjustment of gang angle (see Step 6). Thus, Steps 1-6 can be repeated continuously, as needed, during operation of the tillage implement <b>100</b> through the section of field.</p>
+<p id="p-0174" num="0173">The finishing attachment position and/or down force may also be adjusted to achieve desired results, although it is more commonly used to achieve a target levelness than a target residue level.</p>
+<p id="p-0175" num="0174">The control system and the sensors are configured to achieve multiple objectives or target settings for tillage outcomes, such as sensing and controlling of levelness, uniform depth, uniform and desired residue level, desired surface moisture level, temperature gradient, clod size, etc. Adjustments to implement operating parameters (such as depth, gang angle, front/rear level, etc.) may affect multiple target parameters, and the implement preferably enables the operator to prioritize the target parameters and set limits on the target parameters, while the controller conducts a procedure of making adjustments and observing tillage outcome results to determine the best set of values to achieve the desired outcomes.</p>
+<heading id="h-0018" level="1">User Interface Settings and Parameters</heading>
+<p id="p-0176" num="0175">The tillage implement <b>100</b> also preferably includes a user interface <b>150</b> (see <figref idref="DRAWINGS">FIG. <b>14</b></figref>) operably coupled to the controller <b>116</b> and configured to display one or more soil condition parameters to an operator of the tillage implement <b>100</b>. Similar to the previous embodiment, an alert may be displayed to the operator (e.g., via the user interface <b>150</b>) if a soil condition parameter exceeds a corresponding target parameter value or range.</p>
+<p id="p-0177" num="0176">The user interface <b>150</b> is also operable to receive target settings for tillage outcomes produced by operation of the tillage implement <b>100</b>. In preferred embodiments, the user interface <b>150</b> may be positioned within a cab of a tow vehicle used to advance the tillage implement <b>100</b>.</p>
+<p id="p-0178" num="0177">The target settings associated with the tillage implement <b>100</b> may include target settings for operating depths of ground-engaging tools, target settings for residue coverage, target settings for gang angles of ground-engaging tools, and/or other target settings associated with implement operation. The user interface <b>150</b> may also be configured to generate a map for inputting target settings in association with specific locations and/or areas of a field. In such embodiments, the map may comprise a GPS prescription map that includes geolocation information received from a GPS system. Data from rear-facing sensors (such as sensors <b>114</b>,<b>115</b><i>b</i>) may be used to adjust GPS prescription map settings.</p>
+<p id="p-0179" num="0178">Preferably, the control system is operable to have the operator input target settings (for instance, via the user interface <b>150</b>) for tillage outcomes and/or prioritize the tillage outcomes, where the target settings may include at least one of target depth, target residue level/coverage, target soil levelness, target soil clod size, target implement level value, target soil moisture, and target temperature gradient. The preferred control system is also operable to have the operator input limits on implement parameters and/or prioritize the implement parameters (which may be done via the user interface <b>150</b>), wherein the implement parameters include at least one of implement speed, actual level value, actual depth, and gang angle.</p>
+<p id="p-0180" num="0179">In preferred embodiments, the controller <b>116</b> is preferably configured to prioritize and/or adjust one or more of the implement parameters to obtain one or more of the tillage outcomes. In one example, residue level produced by an implement pass may be affected by the implement parameters of speed, fore/aft level, depth and gang angle. If the operator selects a maximum depth (such as 2.5 inches), the controller <b>116</b> will preferably adjust the depth no deeper than the maximum depth setting (2.5 inches), while adjusting one or more other implement parameters to achieve the target tillage outcome. For instance, to obtain the target residue level without exceeding the maximum depth setting, the controller <b>116</b> may limit the implement depth while also increasing the gang angle, changing the implement speed, and/or adjusting the implement fore/aft level deeper in the front of the implement.</p>
+<p id="p-0181" num="0180">In another example, soil levelness produced by an implement pass may be affected by the implement parameters of speed, fore/aft level, depth and gang angle. Preferably, the controller <b>116</b> operates according to implement parameter limits set by the operator to adjust one or more implement parameters for obtaining the target soil levelness. While obtaining the target soil levelness, the controller <b>116</b> is also preferably obtaining the target residue level as well. To maintain both target soil levelness and target residue level, it may be necessary for the controller <b>116</b> to adjust multiple implement parameters.</p>
+<p id="p-0182" num="0181">Again, the controller <b>116</b> is also preferably configured so that the operator can prioritize the tillage outcomes relative to each other. The control system is preferably operable to have the operator input a priority value for each tillage outcome (e.g., via the user interface <b>150</b>). For instance, the control system may permit the operator to prioritize target residue level over target soil levelness. Conversely, the operator can prioritize the target soil levelness over target residue level.</p>
+<p id="p-0183" num="0182">If the controller <b>116</b> is unable to maintain multiple tillage outcomes at the same time (such as target soil levelness and target residue level), the controller <b>116</b> preferably will prioritize obtaining the highest priority tillage outcome, while attempting to reach one or more lower priority tillage outcomes. For instance, if target residue level is set to have the highest priority, the controller will prioritize obtaining the target residue level relative to the target soil levelness. The controller may also notify the operator (e.g., via the user interface <b>150</b>) that one or more tillage outcomes have not been reached and may recommend additional actions to achieve the outcomes.</p>
+<p id="p-0184" num="0183">In addition to the map generated by the user interface <b>150</b>, the target settings may be developed based upon soil data, such as organic matter, soil type, previous crop yields, terrain, slope percentage, and/or moisture.</p>
+<p id="p-0185" num="0184">Embodiments of the tillage implement <b>100</b> may include sensors to detect and measure soil condition parameters. For instance, one or more sensors <b>113</b>,<b>114</b>,<b>115</b> may be configured to measure the amount of crop/plant residue on the ground G and/or the smoothness/roughness value of the ground G. Preferably, the operator may select (e.g., via the user interface <b>150</b>) a desirable level of soil roughness and residue reduction. Embodiments of the present invention may provide a means to measure and alert the operator (e.g., via the user interface <b>150</b>) if tillage equipment settings are meeting the intended targets. Embodiments of the invention may employ first and second derivative analysis of sensor data to determine surface smoothness, roughness, and quality of work.</p>
+<p id="p-0186" num="0185">Depth map data may be used by embodiments of the tillage implement <b>100</b> for measuring soil condition parameters (which may be relevant to subsequent crop planting). For instance, the tillage implement <b>100</b> is preferably configured to measure changes in soil condition associated with manual or automated adjustments to the implement <b>100</b>.</p>
+<p id="p-0187" num="0186">Additionally, the user interface <b>150</b> may permit the operator to manually override any target settings to obtain a desired or target outcome. Based upon manual adjustment of target settings and/or machine parameters, the implement <b>100</b> may be configured to then collect new sensor data, associated with the manual adjustments, and develop new target settings based upon the new sensor data. The user interface <b>150</b> may then permit the operator to accept the new target settings for maintaining the desired or target outcome.</p>
+<p id="p-0188" num="0187">Embodiments of the implement <b>100</b> may be configured to compare tillage results to target settings and then recommend a GPS-based follow-up action to the operator if the tillage results did not meet the desired targets or goals. For instance, a recommendation may be provided by the implement <b>100</b> to perform a second pass with the same implement tool to further reduce residue or roughness if a target was not achieved in a first pass. Additionally, the implement <b>100</b> may recommend using an alternative tool that is different than the current tool (e.g., where the alternative tool is a more aggressive tool or a less aggressive tool) to achieve a target outcome in one pass. One example of a recommended tool switch may involve switching from a disc harrow to a field cultivator.</p>
+<p id="p-0189" num="0188">In instances where the implement <b>100</b> recommends performing a second pass with the same implement tool, the implement <b>100</b> may be configured to perform the second pass in an autonomous operation. Although the autonomous second pass may be conducted along the entire field, it is within the ambit of the present invention for the implement <b>100</b> to perform the second pass along only one or more parts of the field.</p>
+<p id="p-0190" num="0189">For instances where the implement <b>100</b> recommends a GPS-based local secondary operation, the implement <b>100</b> may be configured to perform the secondary operation with a second autonomous tool, and which may be performed at a later time. However, the principles of the present invention are also applicable for the implement <b>100</b> to communicate the secondary operation recommendations to a second implement before or substantially at the same time of completion of the primary operation by the implement <b>100</b>. For instance, where both implements are operating in the same field, communication between the implements may allow the primary and secondary operations to be performed and/or completed for the overall field at the same time.</p>
+<heading id="h-0019" level="1">Controller</heading>
+<p id="p-0191" num="0190">The controller <b>116</b> is operable to sense and control the height of the tillage implement <b>100</b> and is also operable to control the tillage implement associated with measured soil condition.</p>
+<p id="p-0192" num="0191">As described in the previous embodiment, the controller <b>116</b> and user interface <b>150</b> are preferably provided as part of a computing device. As explained in detail above, the computing device may include one or more processors and memory elements.</p>
+<p id="p-0193" num="0192">As previously noted, the depicted controller <b>116</b> is configured to receive height information from the front and rear sensors <b>113</b><i>a,b</i>. For instance, the controller <b>116</b> preferably provides instructions to the leveling assembly <b>108</b> to adjust the front-to-rear orientation of the central section <b>120</b> based on the received height information. Again, the height values for the front and rear sensors <b>113</b><i>a</i>,<b>113</b><i>b </i>are preferably compared with each other by the controller <b>116</b> to determine a difference between the values. If the difference is outside a target level range, the controller <b>116</b> will preferably send a signal to extend or retract the hydraulic actuator <b>106</b><i>d. </i></p>
+<p id="p-0194" num="0193">The controller <b>116</b> is also configured to receive height information from sensors <b>113</b><i>a, </i><b>113</b><i>c, </i><b>113</b><i>d </i>to level frame sections of the tillage implement <b>100</b> from side to side. Preferably, the controller <b>116</b> is configured to compare the front height value from the front sensor <b>113</b><i>a </i>of the central section <b>120</b> and the height values from the sensors <b>113</b><i>c,d </i>of the wing sections <b>122</b><i>a, </i><b>122</b><i>b, </i><b>124</b><i>a, </i><b>124</b><i>b </i>to determine an actual (i.e., measured) side-to-side level value of the main frame <b>102</b>.</p>
+<p id="p-0195" num="0194">The controller <b>116</b> is also preferably configured to receive a design target side-to-side level value and/or target level range. Furthermore, the controller <b>116</b> is operable to compare the actual side-to-side level value with the target level value or target level range. If a side-to-side level difference is outside a target level range, the controller <b>116</b> will preferably send a signal to extend or retract the corresponding hydraulic actuator <b>106</b><i>a,b,c</i>. Matching of side-to-side level difference preferably includes the inner wing sections <b>122</b><i>a</i>,<b>124</b><i>a </i>matching the central section <b>120</b>, and then the outer wing sections <b>122</b><i>b</i>,<b>124</b><i>b </i>matching the inner wing sections <b>122</b><i>a, </i><b>124</b><i>a. </i></p>
+<p id="p-0196" num="0195">As discussed above, the controller <b>116</b> is configured to increase or reduce pressure to the hydraulic actuators <b>106</b><i>b</i>,<b>106</b><i>c </i>when the heights of one or more wing sections <b>122</b><i>a, </i><b>122</b><i>b, </i><b>124</b><i>a, </i><b>124</b><i>b </i>need to be adjusted (e.g., because a side-to-side level difference is outside a target level range).</p>
+<p id="p-0197" num="0196">The controller <b>116</b> is also operable to analyze images obtained from the sensors <b>113</b>,<b>114</b>,<b>115</b> to determine actual residue coverage of plant material on the soil. Preferably, the controller is also configured to compare the actual (measured) residue coverage with a target residue coverage.</p>
+<p id="p-0198" num="0197">If the actual residue coverage is greater than the target residue coverage, the controller <b>116</b> is configured to lower at least part of the main frame <b>102</b> of the tillage implement <b>100</b> so as to increase an operating depth of corresponding ground-engaging tools of the tillage implement <b>100</b>. Additionally or alternatively, if the actual residue coverage is less than the target residue coverage, the controller <b>116</b> may be configured to increase a gang angle of ground-engaging tools of the tillage implement.</p>
+<p id="p-0199" num="0198">Similarly, if the actual residue coverage is less than the target residue coverage, the controller <b>116</b> is configured to raise at least part of the main frame <b>102</b> of the tillage implement <b>100</b> so as to decrease an operating depth of corresponding ground-engaging tools of the tillage implement <b>100</b>. Additionally or alternatively, if the actual residue coverage is less than the target residue coverage, the controller <b>116</b> is configured to decrease a gang angle of ground-engaging tools of the tillage implement <b>100</b>.</p>
+<p id="p-0200" num="0199">The controller <b>116</b> is also configured process the information obtained by the time-of-flight sensors <b>113</b>,<b>114</b>,<b>115</b> to generate one or more soil condition parameters. Embodiments of the controller <b>116</b> are also configured to automatically control operation of one or more components of the tillage implement <b>100</b> based on the one or more soil quality parameters.</p>
+<p id="p-0201" num="0200">For instance, the controller <b>116</b> may automatically control operation of the tillage implement <b>100</b> by adjusting a speed of the tillage implement <b>100</b> and/or adjusting a position of the ground-engaging tools of the tillage implement <b>100</b>. Examples of adjusting a position of the ground-engaging tools includes shifting a depth at which the ground-engaging tools are embedded in the ground and/or shifting a gang angle of the ground-engaging tools. When shifting the depth of ground-engaging tools, it is within the scope of the present invention for all tools on the implement, or a partial group of tools, to be shifted with one another. However, multiple tools may be shifted separately from each other to permit depth adjustments of each tool independently of the other tools.</p>
+<p id="p-0202" num="0201">Adjusting the position of a ground-engaging tool may also involve adjusting a shank angle relative to the ground. Shanks that are rolled forward in the direction of travel tend to pull deeper and those rolled rearwards at the top tend to float up out of the soil. These tendencies are primarily caused by the angle of attack of the sweep or point running in the soil. In another example of the present invention, a chisel implement may be adjusted by moving the front cutting blades deeper or shallower, while maintaining the shanks at a constant depth, to make a corresponding change to the residue level.</p>
+<p id="p-0203" num="0202">Embodiments of the controller <b>116</b> may be configured to display one or more soil condition parameters to an operator (e.g., via the user interface <b>150</b>). Furthermore, the controller <b>116</b> may generate an alert if the soil condition parameters exceed a soil condition target parameter.</p>
+<p id="p-0204" num="0203">The controller <b>116</b> may also be configured to generate depth maps based on the time-of-flight images after the tillage implement <b>100</b> makes a pass across the ground. The depth maps may comprise a matrix of depth values corresponding to pixels of the time-of-flight images. The controller <b>116</b> may use the matrix to identify objects and distances between objects. The controller <b>116</b> may also use the matrix to sense and control for moisture level, residue level, temperature gradient, clod size, etc.</p>
+<p id="p-0205" num="0204">Although the present invention has been described in detail, it should be understood that various changes, substitutions and alterations can be made thereto without departing from the spirit and scope of the invention as defined by the appended claims.</p>
+<p id="p-0206" num="0205">The preferred forms of the invention described above are to be used as illustration only, and should not be utilized in a limiting sense in interpreting the scope of the present invention. Obvious modifications to the exemplary embodiments, as hereinabove set forth, could be readily made by those skilled in the art without departing from the spirit of the present invention.</p>
+<p id="p-0207" num="0206">The inventors hereby state their intent to rely on the Doctrine of Equivalents to determine and assess the reasonably fair scope of the present invention as pertains to any apparatus not materially departing from but outside the literal scope of the invention as set forth in the following claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A non-transitory computer-readable medium with a computer program stored thereon for controlling a tillage implement, wherein when executed by one or more processors the computer program instructs the one or more processors to perform the following steps:
+<claim-text>receive a first target value and a second target value from a user, wherein each of the first target value and the second target value is a target soil condition value;</claim-text>
+<claim-text>receive a priority for each of the first target value and the second target value;</claim-text>
+<claim-text>obtain, via one or more sensors, information indicative of a first soil condition value and a second soil condition value;</claim-text>
+<claim-text>generate the first soil condition value and the second soil condition value based on the information indicative of the first soil condition value and the second soil condition value;</claim-text>
+<claim-text>compare the first soil condition value and the second soil condition value with the first target value and the second target value, respectively;</claim-text>
+<claim-text>adjust operation of the tillage implement based on the comparison of the first soil condition value and the second soil condition value with the first target value and the second target value, respectively; and</claim-text>
+<claim-text>prioritize operation of the tillage implement based on the priority.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first target value and the second target value are each selected from one or more of the following: target soil depth values, target residue level values, target soil levelness values, target soil clod size values, target soil moisture values, and target soil temperature gradient values.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein one or both of the first target value and the second target value comprise value ranges.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the priority for the first target value is higher than the priority for the second target value such that operation of the tillage implement prioritizes the first target value over the second target value.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein upon the first soil condition value not satisfying the first target value and the second soil condition value not satisfying the second target value, the computer program instructs the one or more processors to perform the following additional step:
+<claim-text>adjust operation of the tillage implement to prioritize the first soil condition value satisfying the first target value over the second soil condition value satisfying the second target value.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the computer program instructs the one or more processors to perform the following additional step:
+<claim-text>provide a notification that the first soil condition value does not satisfy the first target value and the second soil condition value does not satisfy the second target value.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first target value, the second target value, and the priorities are received from a user interface.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the user interface is associated with a towing vehicle for the tillage implement.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein a user may interact with the user interface remotely.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00001">claim 1</claim-ref>, where the one or more sensors comprise a time-of-flight sensor.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the one or more sensors comprise a time-of-flight sensor with at least one or more additional sensors.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00011">claim 11</claim-ref>, where the one or more additional sensors comprises an RGB camera or a temperature sensor.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00011">claim 11</claim-ref>, where the one or more additional sensors comprises a LiDAR sensor, a radar sensor, an ultrasonic sensor, and/or a sonar sensor.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the tillage implement includes one or more ground engaging tools, wherein said step of adjusting operation of the tillage implement includes:
+<claim-text>automatically adjusting a position of the one or more ground-engaging tools.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein said step of automatically adjusting a position of the one or more ground-engaging tools includes automatically adjusting one or more of the following: angles of the one or more ground-engaging tools, depths the one or more ground-engaging tools, and down forces of the one or more ground-engaging tools.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the one or more ground-engaging tools are selected from one or more of the following: coulter blades, harrow assemblies, finishing reels.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. An agricultural system comprising:
+<claim-text>a tillage implement including at least one ground-engaging tool;</claim-text>
+<claim-text>one or more sensor configured to obtain information indicative of soil condition values; and</claim-text>
+<claim-text>a controller comprising a processing element and a memory element, wherein the controller is configured to:
+<claim-text>receive a first target value and a second target value from a user, wherein each of the first target value and the second target value is a target soil condition value;</claim-text>
+<claim-text>receive a priority for each of the first target value and the second target value;</claim-text>
+<claim-text>obtain, via the one or more sensors, information indicative of a first soil condition value and a second soil condition value;</claim-text>
+<claim-text>generate the first soil condition value and the second soil condition value based on the information indicative of the first soil condition value and the second soil condition value;</claim-text>
+<claim-text>compare the first soil condition value and the second soil condition value with the first target value and the second target value, respectively;</claim-text>
+<claim-text>adjust operation of the tillage implement based on the comparison of the first soil condition value and the second soil condition value with the first target value and the second target value, respectively; and</claim-text>
+<claim-text>prioritize operation of the tillage implement based on the priority.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A non-transitory computer-readable medium with a computer program stored thereon for controlling a tillage implement, wherein when executed by one or more processors the computer program instructs the one or more processors to perform the following steps:
+<claim-text>operate the tillage implement based on an original target value, wherein the original target value comprises a target soil condition value;</claim-text>
+<claim-text>manually receive, via a user interface, an adjustment to an operating parameter of the tillage implement;</claim-text>
+<claim-text>obtain, via one or more sensors, information indicative of a soil condition value after the tillage implement operates using the adjustment to the operating parameter of the tillage implement;</claim-text>
+<claim-text>generate the soil condition value based on the information indicative of the soil condition value;</claim-text>
+<claim-text>generate a new target value based on the generated soil condition value; and</claim-text>
+<claim-text>operate the tillage implement based on the new target value.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the original target value and the new target value are selected from one or more of the following: target soil depth values, target residue level values, target soil levelness values, target soil clod size values, target soil moisture values, and target soil temperature gradient values.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The non-transitory computer-readable medium of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the tillage implement includes one or more ground engaging tools, wherein the operating parameter of the tillage implement is selected from one or more of the following: a depth, an angle, and a down-force of the one or more ground-engaging tools.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

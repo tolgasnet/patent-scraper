@@ -1,4 +1,7 @@
-data/
+data/*
+!data/patents_synbio_20251001_20251002.jsonl
+!data/patents_synbio_sample.jsonl
+!data/sample.xml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -121,4 +124,3 @@ cython_debug/
 *.log
 .DS_Store
 Thumbs.db
-
